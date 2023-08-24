@@ -103,13 +103,12 @@ while($row = $c_qry->fetch_assoc()){
 
          <div class="three columns">
 
-            <img class="profile-pic"  src="<?php echo validate_image($_settings->info('logo')) ?>" alt="" />
+         <h2>About US</h2>
 
          </div>
 
          <div class="nine columns main-col">
 
-            <h2>About US</h2>
             <div id="about_me"><?php include "about.html"; ?></div>
 
             <div class="row">
@@ -158,6 +157,7 @@ while($row = $c_qry->fetch_assoc()){
                   <h3><?php echo $row['title'] ?></h3>
                   <hr>
                   <img src="<?php echo validate_image($row['file_path']) ?>" alt="" class="img-fluid service-img-view">
+                  <h3>Details :</h3>
                   <p>
                   <?php echo stripslashes(html_entity_decode($row['description'])) ?>
                   </p>
