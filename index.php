@@ -34,6 +34,24 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
    #about h2 {
       color: #2b2b2b;
    }
+   #about>div,#resume>div{
+    max-width: 1450px;
+   }
+   .row .three{
+    width: 10%;
+   }
+   #about .main-col {
+    padding-right: auto;
+   }
+   .row .nine {
+    width: 90%;
+   }
+   .service-img-view{
+    max-height: 100%!important;
+    max-width: 90%;
+    margin: auto;
+    margin-bottom:5rem;
+   }
 </style>
   <body>
 
@@ -137,12 +155,12 @@ while($row = $c_qry->fetch_assoc()){
    <!-- Resume Section
    ================================================== -->
    <section id="resume">
+     <h1 style="text-align:center;margin-bottom:10rem;"><span>Services</span></h1>
       <!-- Education
       ----------------------------------------------- -->
       <div class="row education">
 
          <div class="three columns header-col">
-            <h1><span>Services</span></h1>
          </div>
 
          <div class="nine columns main-col">
@@ -154,13 +172,15 @@ while($row = $c_qry->fetch_assoc()){
 
                <div class="twelve columns">
 
-                  <h3><?php echo $row['title'] ?></h3>
+                  <h2><?php echo $row['title'] ?></h2>
                   <hr>
+                  <div style="display:flex;justify-content:center;">
                   <img src="<?php echo validate_image($row['file_path']) ?>" alt="" class="img-fluid service-img-view">
-                  <h3>Details :</h3>
-                  <p>
-                  <?php echo stripslashes(html_entity_decode($row['description'])) ?>
-                  </p>
+                  </div>
+                  <h2>Details :</h2>
+                  <div style="padding-left:3rem;color: black!important;margin-top:2rem;font-size:18px;">
+                    <?php echo stripslashes(html_entity_decode($row['description'])) ?>
+                  </div>
 
                </div>
 
@@ -238,7 +258,13 @@ while($row = $c_qry->fetch_assoc()){
 
       </div> <!-- row End -->
 
-   </section> 
+   </section>
+
+   <style>
+    ol.flex-control-nav.flex-control-paging{
+      text-align: center;
+    }
+   </style>
 
 
    <section id="testimonials">
@@ -247,13 +273,13 @@ while($row = $c_qry->fetch_assoc()){
 
          <div class="row">
 
-            <div class="two columns header-col">
+            <!-- <div class="two columns header-col">
 
                <h1><span>Client Testimonials</span></h1>
 
-            </div>
+            </div> -->
 
-            <div class="ten columns flex-container">
+            <div class="ten columns flex-container" style="    transform: translateX(10%);">
 
                <div class="flexslider">
 
@@ -265,12 +291,14 @@ while($row = $c_qry->fetch_assoc()){
                         $row['message'] = html_entity_decode($row['message']);
                      ?>
                      <li>
-                        <blockquote>
-                           <p><?php echo $row['message'] ?>
-                           </p>
-                           <div style="display:flex;align-items:center;">
-                              <img src="<?php echo validate_image($row['file_path']) ?>" class="testimonials-avatar" alt="">
-                              <cite><?php echo $row['message_from'] ?></cite>
+                        <blockquote style="display:flex;justify-content:center;">
+                           <div style="text-align:center;">
+                            <div style="font-size:24px;color:white;"><?php echo str_replace('<p>', '', str_replace('</p>', '', $row['message'])) ?></div>
+
+                            <div style="display:flex;align-items:center;">
+                                <img src="<?php echo validate_image($row['file_path']) ?>" class="" style="width:auto;height:150px;margin: 1.5rem auto;" alt="">
+                            </div>
+                            <div style="font-size:24px;color:white"><?php echo $row['message_from'] ?></div>
                            </div>
                         </blockquote>
                      </li> <!-- slide ends -->
