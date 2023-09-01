@@ -15,7 +15,7 @@
 <body class="font-sans bg-gray-300">
 
   <!-- Navigation Bar -->
-  <nav class="p-4 fixed top-0 left-0 bg-transparent w-full text-white">
+  <nav class="p-4 fixed top-0 left-0 bg-transparent w-full text-white" style="z-index:9999;">
     <div class="container mx-auto flex justify-between items-center px-16">
       <a href="#" class="text-xl font-bold text-white">YourLogo</a>
       <ul class="flex space-x-4">
