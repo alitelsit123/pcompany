@@ -9,6 +9,9 @@
   <link href="./pages/min.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.15/dist/tailwind.min.css" rel="stylesheet">
   <link rel="stylesheet" href="./pages/fonts/css/all.css">
+  <link href="https://fonts.cdnfonts.com/css/trajan-pro" rel="stylesheet">
+
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2/dist/alpine.min.js" defer></script>
 
 </head>
 
@@ -33,45 +36,45 @@
   <!-- Jumbotron Section -->
   <section class="bg-cover bg-center text-white flex justify-center items-center"
   id="jumbotron"
-    style="background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20211031/pngtree-abstract-bg-image_914283.png');height: 100vh;">
-    <div class="container mx-auto text-center">
-      <h1 class="text-4xl font-bold mb-4 text-white">Welcome Lorem Ipsum Dolor Amet</h1>
-      <p class="text-lg mb-8">Discover the best services we offer for your needs.</p>
-      <a href="#" class="bg-blue-500 text-white px-6 py-3 rounded-full hover:bg-blue-600 transition">Learn More</a>
+    style="background-image: url('./pages/pngtree-abstract-bg-image_914283.png');height: 100vh;">
+    <div class="container mx-auto text-center w-3/4">
+      <h1 class="font-bold mb-4 text-white" style="font-size: 55px;font-family: 'Trajan Pro', sans-serif;line-height: auto;">Welcome Lorem Ipsum Dolor Amet</h1>
+      <p class="mb-8 my-10 pb-6" style="font-size: 34px;font-family: 'Trajan Pro', sans-serif;line-height: auto;">Discover the best services we offer for your needs.</p>
+      <a href="#" class="bg-blue-500 text-white px-6 py-3 rounded-full hover:bg-blue-600 transition text-xl" style="font-family: 'Trajan Pro';">Learn More</a>
     </div>
   </section>
 
-  <!-- Persuasion Section -->
-  <section class="container mx-auto py-16 w-3/4">
-    <div class="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-16">
-      <!-- Left Column -->
-      <div class="text-center md:text-left">
-        <div class="mb-4">ANDA INGIN</div>
-        <h2 class="text-3xl font-semibold mb-4 text-blue-600">Ready to Make a Change?</h2>
-        <p class="text-lg mb-6 text-gray-700">Are you looking for a better solution to your needs? Our services are
-          tailored to help you achieve your goals. Join us today!</p>
-        <ul class="mb-6">
-          <li class="flex items-center text-green-500">
-            <span class="text-lg mr-2">&#10004;</span>
-            <span>Expert Guidance</span>
-          </li>
-          <li class="flex items-center text-green-500">
-            <span class="text-lg mr-2">&#10004;</span>
-            <span>Proven Results</span>
-          </li>
-          <!-- Add more questions here -->
-        </ul>
-        <!-- <a href="#" class="bg-blue-500 text-white px-6 py-3 rounded-full hover:bg-blue-600 transition">Get Started</a> -->
+  <div style="background: black;">
+    <!-- Persuasion Section -->
+    <section class="container mx-auto py-16 w-3/4">
+      <div class="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-16">
+        <!-- Left Column -->
+        <div class="text-center md:text-left">
+          <div class="mb-4 text-white">ANDA INGIN</div>
+          <h2 class="text-3xl font-semibold mb-4 text-blue-600">Ready to Make a Change?</h2>
+          <p class="text-lg mb-6 text-white">Are you looking for a better solution to your needs? Our services are
+            tailored to help you achieve your goals. Join us today!</p>
+          <ul class="mb-6">
+            <li class="flex items-center text-green-500">
+              <span class="text-lg mr-2">&#10004;</span>
+              <span>Expert Guidance</span>
+            </li>
+            <li class="flex items-center text-green-500">
+              <span class="text-lg mr-2">&#10004;</span>
+              <span>Proven Results</span>
+            </li>
+            <!-- Add more questions here -->
+          </ul>
+          <!-- <a href="#" class="bg-blue-500 text-white px-6 py-3 rounded-full hover:bg-blue-600 transition">Get Started</a> -->
+        </div>
+        <!-- Right Column -->
+        <div class="grid grid-cols-1 gap-4">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkAX-yWlZIYi4yqQsjNguvlzaF4ZMObqlWcw&usqp=CAU" style="width: 466px;height: auto;"
+            alt="Image 1" class="rounded-lg">
+        </div>
       </div>
-      <!-- Right Column -->
-      <div class="grid grid-cols-2 gap-4">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkAX-yWlZIYi4yqQsjNguvlzaF4ZMObqlWcw&usqp=CAU"
-          alt="Image 1" class="rounded-lg">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkAX-yWlZIYi4yqQsjNguvlzaF4ZMObqlWcw&usqp=CAU"
-          alt="Image 2" class="rounded-lg">
-      </div>
-    </div>
-  </section>
+    </section>
+  </div>
 
   <!-- Main Content Section -->
   <div class="bg-gray-200">
@@ -79,7 +82,7 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
         <!-- Grid Item 1 -->
         <div class="flex items-center">
-          <img src="https://img.freepik.com/premium-vector/abstract-white-shapes-background_79603-1360.jpg"
+          <img src="./pages/m3.jpg"
             alt="Image 1" class="w-full rounded-lg">
         </div>
         <div class="flex flex-col items-center justify-center">
@@ -94,17 +97,54 @@
             succeed.</p>
         </div>
         <div class="flex items-center">
-          <img src="https://img.freepik.com/premium-vector/abstract-white-shapes-background_79603-1360.jpg"
+          <img src="./pages/m1.jpg"
             alt="Image 2" class="w-full rounded-lg">
         </div>
         <div class="flex items-center">
-          <img src="https://img.freepik.com/premium-vector/abstract-white-shapes-background_79603-1360.jpg"
+          <img src="./pages/m2.jpg"
             alt="Image 2" class="w-full rounded-lg">
         </div>
         <div class="flex flex-col items-center justify-center">
           <h3 class="text-2xl font-semibold mb-2 text-blue-600">Our Dedicated Team</h3>
           <p class="text-gray-700">Meet our skilled and dedicated team of professionals who are committed to helping you
-            succeed.</p>
+            succeed.
+          </p>
+          <div x-data="{ openPanels: [] }" class="flex flex-col items-stretch w-full mt-4 space-y-0">
+              <div class="border rounded-t w-full">
+                  <button @click="openPanels.includes(1) ? openPanels = openPanels.filter(item => item !== 1) : openPanels.push(1)"
+                      class="flex justify-between items-center w-full bg-blue-500 text-white px-4 py-2 rounded-md focus:outline-none">
+                      <span>Panel 1</span>
+                      <span x-text="openPanels.includes(1) ? '-' : '+'"></span>
+                  </button>
+                  <div x-show="openPanels.includes(1)" class="p-4 bg-gray-100">
+                      <!-- Content for Panel 1 goes here -->
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  </div>
+              </div>
+
+              <div class="border rounded-none">
+                  <button @click="openPanels.includes(2) ? openPanels = openPanels.filter(item => item !== 2) : openPanels.push(2)"
+                      class="flex justify-between items-center w-full bg-blue-500 text-white px-4 py-2 rounded-md focus:outline-none">
+                      <span>Panel 2</span>
+                      <span x-text="openPanels.includes(2) ? '-' : '+'"></span>
+                  </button>
+                  <div x-show="openPanels.includes(2)" class="p-4 bg-gray-100">
+                      <!-- Content for Panel 2 goes here -->
+                      Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  </div>
+              </div>
+              <div class="border rounded-b mb-2">
+                  <button @click="openPanels.includes(2) ? openPanels = openPanels.filter(item => item !== 3) : openPanels.push(3)"
+                      class="flex justify-between items-center w-full bg-blue-500 text-white px-4 py-2 rounded-md focus:outline-none">
+                      <span>Panel 3</span>
+                      <span x-text="openPanels.includes(2) ? '-' : '+'"></span>
+                  </button>
+                  <div x-show="openPanels.includes(2)" class="p-4 bg-gray-100">
+                      <!-- Content for Panel 2 goes here -->
+                      Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  </div>
+              </div>
+          </div>
         </div>
         <!-- Add more grid items here -->
       </div>
@@ -113,7 +153,7 @@
 
   <section class="py-16 w-3/4 mx-auto text-center space-y-6">
     <div class="text-sm">lorem oeijroiejroiejro ijeoijroeijro ijeirj</div>
-    <div class="text-3xl text-blue-600">Allah dan rasulnya memerangi perilaku RIBA</div>
+    <div class="text-blue-600" style="font-size: 56px;font-family: 'Times New Roman'">Allah dan rasulnya memerangi perilaku RIBA</div>
     <div class="text-sm">lorem oeijroiejroiejro ijeoijroeijro ijeirj ldskjflksdj lfkjsdlkfj lskdjf lksjdlkf jsdlkjf
       lksjdlfk jsdlkjf lskdjf lksjdflk sjdlkf jsldkjf s dlkfjsldkj flksjd foijsdo ijfosdijf oijsdoijfosi jdfoijs oidjfo
       isjdofi jsdoijf osijdfo isdjfio jsdoifj osdijf oisdjf oisdjfo isjdfoi jsdoijf </div>
@@ -142,19 +182,19 @@
             <div class="elementor-container elementor-column-gap-default gap-4">
               <?php foreach([
                 [
-                  "icon",
-                  "Tanpa Riba",
+                  "fas fa-exclamation-triangle",
+                  "Tanpa Denda",
                   "Sebagai seorang muslim seharusnya menjauhi riba, karena ancaman riba menakutkan baik  ancaman di dunia maupun di akhirat."
                 ],
                 [
-                  "icon",
+                  "fas fa-university",
                   "Tanpa Pihak Ketiga",
-                  "Sebagai seorang muslim seharusnya menjauhi riba, karena ancaman riba menakutkan baik  ancaman di dunia maupun di akhirat."
+                  "Pengembang perumahan Syariah ini melakukan jual rumah antara pihak pengembang dan konsumen tanpa ada pihak bank konvensional sehingga terjadi antara penjual dan pembeli."
                 ],
                 [
-                  "icon",
-                  "Tanpa Sita Paksa",
-                  "Sebagai seorang muslim seharusnya menjauhi riba, karena ancaman riba menakutkan baik  ancaman di dunia maupun di akhirat."
+                  "far fa-calendar-times",
+                  "Tanpa Denda",
+                  "Apabila Anda mengangsur, kemudian terlambat dalam melakukan angsuran maka di Marifa tidak akan melakukan denda kepada Anda dan juga tidak melakukan bunga."
                 ],
               ] as $row): ?>
               <div
@@ -168,7 +208,7 @@
                     <div class="elementor-widget-container">
                       <div class="elementor-icon-wrapper">
                         <div class="elementor-icon">
-                          <i aria-hidden="true" class="far fa-calendar-times"></i>
+                          <i aria-hidden="true" class="<?= $row[0] ?>"></i>
                         </div>
                       </div>
                     </div>
@@ -177,15 +217,14 @@
                     class="elementor-element elementor-element-277e011d de_scroll_animation_no elementor-widget elementor-widget-heading"
                     data-id="277e011d" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                      <h2 class="elementor-heading-title elementor-size-default">Tanpa Denda</h2>
+                      <h2 class="elementor-heading-title elementor-size-default"><?= $row[1] ?></h2>
                     </div>
                   </div>
                   <div
                     class="elementor-element elementor-element-2985b974 de_scroll_animation_no elementor-widget elementor-widget-text-editor"
                     data-id="2985b974" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">
-                      <p>Apabila Anda mengangsur, kemudian terlambat dalam melakukan angsuran maka di Marifa tidak akan
-                        melakukan denda kepada Anda dan juga tidak melakukan bunga.</p>
+                      <p><?= $row[2] ?></p>
                     </div>
                   </div>
                 </div>
@@ -198,52 +237,51 @@
             data-id="403dd554" data-element_type="section"
             data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="elementor-container elementor-column-gap-default gap-4">
-              <?php foreach([
+            <?php foreach([
                 [
-                  "icon",
-                  "Tanpa Riba",
-                  "Sebagai seorang muslim seharusnya menjauhi riba, karena ancaman riba menakutkan baik  ancaman di dunia maupun di akhirat."
-                ],
-                [
-                  "icon",
-                  "Tanpa Pihak Ketiga",
-                  "Sebagai seorang muslim seharusnya menjauhi riba, karena ancaman riba menakutkan baik  ancaman di dunia maupun di akhirat."
-                ],
-                [
-                  "icon",
+                  "fas fa-gavel",
                   "Tanpa Sita Paksa",
-                  "Sebagai seorang muslim seharusnya menjauhi riba, karena ancaman riba menakutkan baik  ancaman di dunia maupun di akhirat."
+                  "Dari berita yang beredar, terkadang rumah disita paksa oleh bank karena pembeli rumah tidak bisa meneruskan angsuran.  Tetapi di perumahan Syariah hal tersebut tidak akan dilakukan. Apabila konsumen tidak bisa meneruskan angsuran maka rumah tidak akan disita tetapi akan ada solusi yang sangat menentramkan antara pihak pengmbang dan pihak pembeli rumah."
+                ],
+                [
+                  "far fa-handshake",
+                  "Tanpa Akad Bermasalah",
+                  "Ketika DP disetorkan maka pihak pembeli sudah memiliki hak terhadap rumah. Dan pembeli memiliki kewajiban untuk melunasi sisa cicilan ke pengembang."
+                ],
+                [
+                  "fas fa-book",
+                  "Tanpa Asuransi",
+                  "Kami tidak menerapkan asuransi karena asuransi ada unsur judi dan gharar. Selama rumah tersebut belum diserah terimakan maka pihak developer yang menjaganya."
                 ],
               ] as $row): ?>
               <div
-                class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-18c84177 shadow rounded-lg bg-white"
-                data-id="18c84177" data-element_type="column"
+                class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-165dc9e shadow rounded-lg bg-white"
+                data-id="165dc9e" data-element_type="column"
                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-widget-wrap elementor-element-populated">
                   <div
-                    class="elementor-element elementor-element-5ba6bd97 elementor-view-stacked elementor-shape-circle de_scroll_animation_no elementor-widget elementor-widget-icon"
-                    data-id="5ba6bd97" data-element_type="widget" data-widget_type="icon.default">
+                    class="elementor-element elementor-element-30500cdd elementor-view-stacked elementor-shape-circle de_scroll_animation_no elementor-widget elementor-widget-icon"
+                    data-id="30500cdd" data-element_type="widget" data-widget_type="icon.default">
                     <div class="elementor-widget-container">
                       <div class="elementor-icon-wrapper">
                         <div class="elementor-icon">
-                          <i aria-hidden="true" class="far fa-handshake"></i>
+                          <i aria-hidden="true" class="<?= $row[0] ?>"></i>
                         </div>
                       </div>
                     </div>
                   </div>
                   <div
-                    class="elementor-element elementor-element-27bb3eac de_scroll_animation_no elementor-widget elementor-widget-heading"
-                    data-id="27bb3eac" data-element_type="widget" data-widget_type="heading.default">
+                    class="elementor-element elementor-element-277e011d de_scroll_animation_no elementor-widget elementor-widget-heading"
+                    data-id="277e011d" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                      <h2 class="elementor-heading-title elementor-size-default">Tanpa Akad Bermasalah</h2>
+                      <h2 class="elementor-heading-title elementor-size-default"><?= $row[1] ?></h2>
                     </div>
                   </div>
                   <div
-                    class="elementor-element elementor-element-2227e05c de_scroll_animation_no elementor-widget elementor-widget-text-editor"
-                    data-id="2227e05c" data-element_type="widget" data-widget_type="text-editor.default">
+                    class="elementor-element elementor-element-2985b974 de_scroll_animation_no elementor-widget elementor-widget-text-editor"
+                    data-id="2985b974" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">
-                      <p>Ketika DP disetorkan maka pihak pembeli sudah memiliki hak terhadap rumah. Dan pembeli memiliki
-                        kewajiban untuk melunasi sisa cicilan ke pengembang.</p>
+                      <p><?= $row[2] ?></p>
                     </div>
                   </div>
                 </div>
@@ -481,7 +519,41 @@
       </div>
     </section>
   </div>
+  
+  <style>
+    .lightbox {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.8);
+        text-align: center;
+        z-index: 999;
+    }
 
+    .lightbox-content {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .lightbox img {
+        max-width: 80%;
+        max-height: 80vh; /* Adjust the max height as needed */
+        display: block;
+        margin: 0 auto;
+    }
+
+    .lightbox button {
+        background: none;
+        border: none;
+        color: #fff;
+        font-size: 24px;
+        cursor: pointer;
+    }
+  </style>
 
   <section class="w-3/4 mx-auto p-6">
     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2e160bd4"
@@ -492,35 +564,26 @@
           data-id="6488e72a" data-element_type="section">
           <div class="elementor-container elementor-column-gap-default">
             <div
-              class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-75d8d621"
-              data-id="75d8d621" data-element_type="column">
-              <div class="elementor-widget-wrap"></div>
-            </div>
-            <div
-              class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-60c803bc"
-              data-id="60c803bc" data-element_type="column">
-              <div class="elementor-widget-wrap elementor-element-populated">
+              class="mx-auto"
+              data-id="60c803bc" data-element_type="column" style="width:700px;height: 493px;">
+              <div class="elementor-widget-wrap elementor-element-populated mx-auto" style="width:700px;height: 493px;">
                 <div
                   class="elementor-element elementor-element-28619a22 de_scroll_animation_no elementor-widget elementor-widget-video"
+                  style="width:700px;height: 433px;"
                   data-id="28619a22" data-element_type="widget"
                   data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Ws45bFU6JC8&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}"
                   data-widget_type="video.default">
-                  <div class="elementor-widget-container">
-                    <div class="elementor-wrapper elementor-open-inline"><iframe class="elementor-video" frameborder="0"
+                  <div class="elementor-widget-container" style="width:700px;height: 433px;">
+                    <div class="elementor-wrapper elementor-open-inline" style="width:700px;height: 433px;"><iframe class="elementor-video" frameborder="0"
                         allowfullscreen="1"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         title="Video Interior Rumah Blok A +Rooftop, Kolam Renang &amp; Smarthhome + di Perumahan Marifa Skyland Beduri"
-                        width="640" height="360"
+                        width="700px" height="433px"
                         src="https://www.youtube.com/embed/Ws45bFU6JC8?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.marifa.id&amp;widgetid=3"
                         id="widget4"></iframe></div>
                   </div>
                 </div>
               </div>
-            </div>
-            <div
-              class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6ce4e6c"
-              data-id="6ce4e6c" data-element_type="column">
-              <div class="elementor-widget-wrap"></div>
             </div>
           </div>
         </section>
@@ -528,8 +591,8 @@
           class="elementor-element elementor-element-23cb53b9 elementor-hidden-phone de_scroll_animation_no elementor-widget elementor-widget-image-gallery"
           data-id="23cb53b9" data-element_type="widget" data-widget_type="image-gallery.default">
           <div class="elementor-widget-container">
-            <div class="elementor-image-gallery">
-              <div id="gallery-3" class="gallery galleryid-2604 gallery-columns-4 gallery-size-medium grid grid-cols-3 gap-6">
+            <div class="elementor-image-gallery ">
+              <div id="gallery-3" class="gallery galleryid-2604 gallery-columns-4 gallery-size-medium grid grid-cols-3 gap-6 gallery-container">
                 <?php foreach([
                   [
                     "icon",
@@ -561,30 +624,75 @@
                     "Tanpa Asuransi",
                     "Sebagai seorang muslim seharusnya menjauhi riba, karena ancaman riba menakutkan baik  ancaman di dunia maupun di akhirat."
                   ]
-                ] as $row): ?>
-                <figure class="w-full">
+                ] as $k => $row): ?>
+                <figure class="w-full thumbnail">
                   <div class="gallery-icon landscape">
                     <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="23cb53b9"
                       data-elementor-lightbox-title="Tips Membeli Perumahan Ponorogo Supaya Menguntungkan"
                       data-elementor-lightbox-description="Tips Membeli Perumahan Ponorogo Supaya Menguntungkan"
                       data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzAsInVybCI6Imh0dHBzOlwvXC93d3cubWFyaWZhLmlkXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIyXC8xMFwvRm90by1EZXNhaW4tUnVhbmctVGFtdS1QZXJ1bWFoYW4tU2t5bGFuZC1Qb25vcm9nby5qcGVnIiwic2xpZGVzaG93IjoiMjNjYjUzYjkifQ%3D%3D"
-                      href="https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo.jpeg"><img
-                        data-lazyloaded="1" data-placeholder-resp="300x300"
-                        src="https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo-300x300.jpeg"
+                      href="#"><img
+                        src="./pages/s-<?= $k+1 ?>.jpeg"
                         width="300" height="300"
-                        data-src="https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo-300x300.jpeg"
                         class="attachment-medium size-medium entered litespeed-loaded"
-                        alt="Tips Membeli Perumahan Ponorogo Supaya Menguntungkan" decoding="async"
-                        aria-describedby="gallery-3-30"
-                        data-srcset="https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo-300x300.jpeg 300w, https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo-1024x1024.jpeg 1024w, https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo-150x150.jpeg 150w, https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo-768x768.jpeg 768w, https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo.jpeg 1280w"
-                        data-sizes="(max-width: 300px) 100vw, 300px" data-ll-status="loaded"
-                        sizes="(max-width: 300px) 100vw, 300px"
-                        srcset="https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo-300x300.jpeg 300w, https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo-1024x1024.jpeg 1024w, https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo-150x150.jpeg 150w, https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo-768x768.jpeg 768w, https://www.marifa.id/wp-content/uploads/2022/10/Foto-Desain-Ruang-Tamu-Perumahan-Skyland-Ponorogo.jpeg 1280w"></a>
+                        alt="Tips Membeli Perumahan Ponorogo Supaya Menguntungkan"
+                          />
+                        </a>
                   </div>
                   <figcaption class="wp-caption-text gallery-caption" id="gallery-3-30">
                     Tips Membeli Perumahan Ponorogo Supaya Menguntungkan</figcaption>
                 </figure>
                 <?php endforeach; ?>
+
+                <div class="lightbox">
+                    <div class="lightbox-content">
+                        <button class="close-button">&#10006;</button>
+                        <img src="" alt="Full-size Image">
+                        <button class="prev-button">&#9664;</button>
+                        <button class="next-button">&#9654;</button>
+                    </div>
+                </div>
+
+                <script>
+                    // JavaScript to handle thumbnail clicks
+                    const thumbnails = document.querySelectorAll('.thumbnail');
+                    const lightbox = document.querySelector('.lightbox');
+                    const lightboxImage = lightbox.querySelector('img');
+                    const closeButton = lightbox.querySelector('.close-button');
+                    const prevButton = lightbox.querySelector('.prev-button');
+                    const nextButton = lightbox.querySelector('.next-button');
+
+                    let currentIndex = 0;
+
+                    thumbnails.forEach((thumbnail, index) => {
+                        thumbnail.addEventListener('click', () => {
+                            const thumbnailImage = thumbnail.querySelector('img');
+                            lightboxImage.src = thumbnailImage.src;
+                            lightbox.style.display = 'block';
+                            currentIndex = index;
+                        });
+                    });
+
+                    closeButton.addEventListener('click', () => {
+                        lightbox.style.display = 'none';
+                    });
+
+                    prevButton.addEventListener('click', () => {
+                        if (currentIndex > 0) {
+                            currentIndex--;
+                            const prevThumbnail = thumbnails[currentIndex].querySelector('img');
+                            lightboxImage.src = prevThumbnail.src;
+                        }
+                    });
+
+                    nextButton.addEventListener('click', () => {
+                        if (currentIndex < thumbnails.length - 1) {
+                            currentIndex++;
+                            const nextThumbnail = thumbnails[currentIndex].querySelector('img');
+                            lightboxImage.src = nextThumbnail.src;
+                        }
+                    });
+                </script>
                 
               </div>
             </div>
@@ -600,9 +708,9 @@
         data-id="6bc29f2" data-element_type="column">
         <div class="elementor-widget-wrap elementor-element-populated">
           <div
-            class="elementor-element elementor-element-f0c291b de_scroll_animation_no elementor-widget elementor-widget-video"
+            class="elementor-element elementor-element-f0c291b de_scroll_animation_no elementor-widget elementor-widget-video mx-auto"
             data-id="f0c291b" data-element_type="widget"
-            style="width:660px; height: 400px;"
+            style="width:100%; height: 400px;"
             data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=itRoaEaqX_Q&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}"
             data-widget_type="video.default">
             <div style="height: 400px">
