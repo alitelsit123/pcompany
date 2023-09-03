@@ -26,7 +26,7 @@
   <!-- Navigation Bar -->
   <nav class="p-4 fixed top-0 left-0 bg-transparent w-full text-white" style="z-index:9999;">
     <div class="container mx-auto flex justify-between items-center px-16">
-      <a href="#" class="text-xl font-bold text-white"><img src="./pages/m1.jpg" style="max-width: 118px;height: auto;" /></a>
+      <a href="#" class="text-xl font-bold text-white"><img src="./pages/s-1.jpeg" style="max-width: 118px;height: auto;border:none;" /></a>
       <ul class="flex space-x-4">
         <li><a href="#jumbotron" class="hover:text-blue-500 transition">Home</a></li>
         <li><a href="#about" class="hover:text-blue-500 transition">About</a></li>
