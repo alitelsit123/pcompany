@@ -22,12 +22,12 @@
     <div class="container mx-auto flex justify-between items-center px-16">
       <a href="#" class="text-xl font-bold text-white">YourLogo</a>
       <ul class="flex space-x-4">
-        <li><a href="#" class="hover:text-blue-500 transition">Home</a></li>
-        <li><a href="#" class="hover:text-blue-500 transition">About</a></li>
-        <li><a href="#" class="hover:text-blue-500 transition">Services</a></li>
+        <li><a href="#jumbotron" class="hover:text-blue-500 transition">Home</a></li>
+        <li><a href="#about" class="hover:text-blue-500 transition">About</a></li>
+        <li><a href="#services" class="hover:text-blue-500 transition">Services</a></li>
         <!-- <li><a href="#" class="hover:text-blue-500 transition">Clients</a></li> -->
         <!-- <li><a href="#" class="hover:text-blue-500 transition">Testimonies</a></li> -->
-        <li><a href="#" class="hover:text-blue-500 transition">Contact Us</a></li>
+        <li><a href="#contact" class="hover:text-blue-500 transition">Contact Us</a></li>
       </ul>
     </div>
   </nav>
@@ -40,11 +40,11 @@
     <div class="container mx-auto text-center w-3/4">
       <h1 class="font-bold mb-4 text-white" style="font-size: 55px;font-family: 'Trajan Pro', sans-serif;line-height: auto;">Welcome Lorem Ipsum Dolor Amet</h1>
       <p class="mb-8 my-10 pb-6" style="font-size: 34px;font-family: 'Trajan Pro', sans-serif;line-height: auto;">Discover the best services we offer for your needs.</p>
-      <a href="#" class="bg-blue-500 text-white px-6 py-3 rounded-full hover:bg-blue-600 transition text-xl" style="font-family: 'Trajan Pro';">Learn More</a>
+      <a href="#next" class="bg-blue-500 text-white px-6 py-3 rounded-full hover:bg-blue-600 transition text-xl" style="font-family: 'Trajan Pro';">Learn More</a>
     </div>
   </section>
 
-  <div style="background: black;">
+  <div style="background: black;" id="next">
     <!-- Persuasion Section -->
     <section class="container mx-auto py-16 w-3/4">
       <div class="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-16">
@@ -77,7 +77,7 @@
   </div>
 
   <!-- Main Content Section -->
-  <div class="bg-gray-200">
+  <div class="bg-gray-200" id="services">
     <section class="container mx-auto py-16 w-3/4">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
         <!-- Grid Item 1 -->
@@ -145,6 +145,60 @@
                   </div>
               </div>
           </div>
+        </div>
+        <!-- Add more grid items here -->
+      </div>
+    </section>
+  </div>
+
+  <!-- Main Content Section -->
+  <div class="bg-gray-200">
+    <section class="container mx-auto py-16 w-3/4">
+      <h1 class="text-center mb-12 pb-12 w-3/4 mx-auto" style="font-size: 56px;font-family: 'Trajan Pro', sans-serif;border-bottom: 3px solid gray;"><span style="border-bottom:5px solid rgba(29,78,216,var(--tw-bg-opacity));">Tipe Rumah</span></h1>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+        <!-- Grid Item 1 -->
+        <div class="flex items-center">
+          <img src="./pages/m3.jpg"
+            alt="Image 1" class="w-full rounded-lg">
+        </div>
+        <div class="flex flex-col items-start justify-center text-left">
+          <h3 class="text-4xl font-semibold mb-2 text-gray-700 text-left">Unit Fasilitas Tipe A</h3>
+          <h3 class="text-3xl text-gray-500">Fasilitas</h3>
+          <ul class="list-disc text-xl list-inside space-y-2 mt-2">
+            <li>List 1</li>
+            <li>List 2</li>
+            <li>List 3</li>
+          </ul>
+        </div>
+        <!-- Grid Item 2 -->
+        <div class="flex flex-col items-start justify-center text-left">
+          <h3 class="text-4xl font-semibold mb-2 text-gray-700 text-left">Unit Fasilitas Tipe B</h3>
+          <h3 class="text-3xl text-gray-500">Fasilitas</h3>
+          <ul class="list-disc text-xl list-inside space-y-2 mt-2">
+            <li>List 1</li>
+            <li>List 2</li>
+            <li>List 3</li>
+          </ul>
+        </div>
+        <div class="flex items-center">
+          <img src="./pages/m1.jpg"
+            alt="Image 2" class="w-full rounded-lg">
+        </div>
+        <div class="flex items-center">
+          <img src="./pages/m2.jpg"
+            alt="Image 2" class="w-full rounded-lg">
+        </div>
+        <div class="flex flex-col items-center justify-center">
+          <div class="flex flex-col items-start justify-center text-left">
+            <h3 class="text-4xl font-semibold mb-2 text-gray-700 text-left">Unit Fasilitas Tipe C</h3>
+            <h3 class="text-3xl text-gray-500">Fasilitas</h3>
+            <ul class="list-disc text-xl list-inside space-y-2 mt-2">
+              <li>List 1</li>
+              <li>List 2</li>
+              <li>List 3</li>
+            </ul>
+          </div>
+          
         </div>
         <!-- Add more grid items here -->
       </div>
@@ -294,7 +348,7 @@
     </div>
   </section>
 
-  <div style="background: #022c67;" class="text-white mt-16">
+  <div style="background: #022c67;" class="text-white mt-16" id="about">
     <section
       class="elementor-section elementor-top-section elementor-element elementor-element-6a01cc30 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default w-3/4 mx-auto py-16"
       data-id="6a01cc30" data-element_type="section"
@@ -633,13 +687,14 @@
                       data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzAsInVybCI6Imh0dHBzOlwvXC93d3cubWFyaWZhLmlkXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIyXC8xMFwvRm90by1EZXNhaW4tUnVhbmctVGFtdS1QZXJ1bWFoYW4tU2t5bGFuZC1Qb25vcm9nby5qcGVnIiwic2xpZGVzaG93IjoiMjNjYjUzYjkifQ%3D%3D"
                       href="#"><img
                         src="./pages/s-<?= $k+1 ?>.jpeg"
-                        width="300" height="300"
-                        class="attachment-medium size-medium entered litespeed-loaded"
+                        class="attachment-medium size-medium entered litespeed-loaded w-full"
                         alt="Tips Membeli Perumahan Ponorogo Supaya Menguntungkan"
                           />
                         </a>
+                        <!-- width="300" height="300" -->
+
                   </div>
-                  <figcaption class="wp-caption-text gallery-caption" id="gallery-3-30">
+                  <figcaption class="wp-caption-text gallery-caption text-center w-full" id="gallery-3-30">
                     Tips Membeli Perumahan Ponorogo Supaya Menguntungkan</figcaption>
                 </figure>
                 <?php endforeach; ?>
@@ -670,11 +725,13 @@
                             lightboxImage.src = thumbnailImage.src;
                             lightbox.style.display = 'block';
                             currentIndex = index;
+                            document.getElementsByTagName("nav")[0].style.display = "none"
                         });
                     });
 
                     closeButton.addEventListener('click', () => {
                         lightbox.style.display = 'none';
+                        document.getElementsByTagName("nav")[0].style.display = "block"
                     });
 
                     prevButton.addEventListener('click', () => {
@@ -702,7 +759,7 @@
     </div>
   </section>
     
-  <div style="background: #022c67;">    
+  <div style="background: #022c67;" id="contact">    
     <section class="py-16 w-1/2 mx-auto text-center text-white">
       <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6bc29f2"
         data-id="6bc29f2" data-element_type="column">
