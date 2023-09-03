@@ -13,6 +13,12 @@
 
   <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2/dist/alpine.min.js" defer></script>
 
+  <style>
+    .bg-cc1 {
+      background: #000800!important
+    }
+  </style>
+
 </head>
 
 <body class="font-sans bg-gray-300">
@@ -20,7 +26,7 @@
   <!-- Navigation Bar -->
   <nav class="p-4 fixed top-0 left-0 bg-transparent w-full text-white" style="z-index:9999;">
     <div class="container mx-auto flex justify-between items-center px-16">
-      <a href="#" class="text-xl font-bold text-white">YourLogo</a>
+      <a href="#" class="text-xl font-bold text-white"><img src="./pages/m1.jpg" style="max-width: 118px;height: auto;" /></a>
       <ul class="flex space-x-4">
         <li><a href="#jumbotron" class="hover:text-blue-500 transition">Home</a></li>
         <li><a href="#about" class="hover:text-blue-500 transition">About</a></li>
@@ -847,9 +853,9 @@
     // Function to update navigation background
     function updateNavBackground() {
       if (window.scrollY > jumbotron.offsetHeight) {
-        nav.classList.add('bg-blue-700');
+        nav.classList.add('bg-cc1');
       } else {
-        nav.classList.remove('bg-blue-700');
+        nav.classList.remove('bg-cc1');
       }
     }
 
