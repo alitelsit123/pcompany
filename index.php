@@ -5,6 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Navigation Menu</title>
+  <link rel="icon" type="image/x-icon" href="gsk_logo-removebg.ico">
   <!-- <link data-optimized="2" rel="stylesheet" href="https://www.marifa.id/wp-content/litespeed/css/aaa2a8fed9b9500c578296f9ee746ad4.css?ver=6f193"> -->
   <link href="./pages/min.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.15/dist/tailwind.min.css" rel="stylesheet">
@@ -119,7 +120,7 @@
           <div x-data="{ openPanels: [] }" class="flex flex-col items-stretch w-full mt-4 space-y-0">
               <div class="border rounded-t w-full">
                   <button @click="openPanels.includes(1) ? openPanels = openPanels.filter(item => item !== 1) : openPanels.push(1)"
-                      class="flex justify-between items-center w-full bg-green-500 text-white px-4 py-2 rounded-md focus:outline-none">
+                      class="flex justify-between items-center w-full bg-black text-white px-4 py-2 rounded-md focus:outline-none">
                       <span>Lingkungan yang Terjaga: Pagar Tembok Keliling</span>
                       <span x-text="openPanels.includes(1) ? '-' : '+'"></span>
                   </button>
@@ -131,7 +132,7 @@
 
               <div class="border rounded-none">
                   <button @click="openPanels.includes(2) ? openPanels = openPanels.filter(item => item !== 2) : openPanels.push(2)"
-                      class="flex justify-between items-center w-full bg-green-500 text-white px-4 py-2 rounded-md focus:outline-none">
+                      class="flex justify-between items-center w-full bg-black text-white px-4 py-2 rounded-md focus:outline-none">
                       <span>Keamanan Tanpa Henti: CCTV dan Satpam 24 Jam</span>
                       <span x-text="openPanels.includes(2) ? '-' : '+'"></span>
                   </button>
@@ -143,7 +144,7 @@
 
               <div class="border rounded-none">
                   <button @click="openPanels.includes(3) ? openPanels = openPanels.filter(item => item !== 2) : openPanels.push(3)"
-                      class="flex justify-between items-center w-full bg-green-500 text-white px-4 py-2 rounded-md focus:outline-none">
+                      class="flex justify-between items-center w-full bg-black text-white px-4 py-2 rounded-md focus:outline-none">
                       <span>Pintu Satu Akses: One Gate System</span>
                       <span x-text="openPanels.includes(3) ? '-' : '+'"></span>
                   </button>
@@ -155,7 +156,7 @@
 
               <div class="border rounded-none">
                   <button @click="openPanels.includes(4) ? openPanels = openPanels.filter(item => item !== 2) : openPanels.push(4)"
-                      class="flex justify-between items-center w-full bg-green-500 text-white px-4 py-2 rounded-md focus:outline-none">
+                      class="flex justify-between items-center w-full bg-black text-white px-4 py-2 rounded-md focus:outline-none">
                       <span>Masjid Perumahan</span>
                       <span x-text="openPanels.includes(4) ? '-' : '+'"></span>
                   </button>
@@ -167,7 +168,7 @@
 
               <div class="border rounded-none">
                   <button @click="openPanels.includes(5) ? openPanels = openPanels.filter(item => item !== 2) : openPanels.push(5)"
-                      class="flex justify-between items-center w-full bg-green-500 text-white px-4 py-2 rounded-md focus:outline-none">
+                      class="flex justify-between items-center w-full bg-black text-white px-4 py-2 rounded-md focus:outline-none">
                       <span>Playground</span>
                       <span x-text="openPanels.includes(5) ? '-' : '+'"></span>
                   </button>
@@ -179,7 +180,7 @@
 
               <div class="border rounded-none">
                   <button @click="openPanels.includes(6) ? openPanels = openPanels.filter(item => item !== 2) : openPanels.push(6)"
-                      class="flex justify-between items-center w-full bg-green-500 text-white px-4 py-2 rounded-md focus:outline-none">
+                      class="flex justify-between items-center w-full bg-black text-white px-4 py-2 rounded-md focus:outline-none">
                       <span>Lampu penerangan jalan di setiap rumah </span>
                       <span x-text="openPanels.includes(6) ? '-' : '+'"></span>
                   </button>
@@ -250,8 +251,26 @@
               <li>Ruang Dapur</li>
               <li>Car Port</li>
             </ul>
+          </div>
         </div>
-      <!-- Add more grid items here -->
+        <!-- Grid Item 2 -->
+        <div class="flex flex-col items-start justify-center text-left">
+          <h3 class="text-4xl font-semibold mb-2 text-gray-700 text-left">Unit Rumah Tipe 74</h3>
+          <h3 class="text-3xl text-gray-500">Fasilitas</h3>
+          <ul class="list-disc text-xl list-inside space-y-2 mt-2">
+            <li>Ruang Keluarga</li>
+            <li>2 Kamar Mandi</li>
+            <li>3 kamar Tidur</li>
+            <li>Ruang Makan/Dapur</li>
+            <li>Car Port</li>
+            <li>Kanopi</li>
+          </ul>
+        </div>
+        <div class="flex items-center">
+          <img src="./pages/74.png"
+            alt="Image 2" class="w-full rounded-lg">
+        </div>
+      
 
       </div>
     </section>
@@ -266,6 +285,13 @@ Apabila cara memperoleh rumah menggunakan riba, akan sangat merugi karena Allah 
 
 Apabila Anda ingin memiliki Hunian yang tanpa riba tetapi bisa diangsur dan hidup menjadi tenang dan berkah maka Anda bisa memperolehnya di Grand Shafa. </div>
   </section>
+
+<section class="py-16 w-3/4 mx-auto text-center space-y-2">
+    <div class="text-sm"></div>
+    <div class="text-black" style="font-size: 56px;font-family: 'Times New Roman'">Baiti Jannati</div>
+    <div class="text-black" style="font-size: 27px;font-family: 'calibri'">Para mufassir memaknainya sebagai tempat tinggal, tempat meraih ketenangan dan ketentraman bersama keluarga, tempat istirahat, dan tempat berlindung dari sengatan panas dan dingin</div>
+  </section>
+
   <section class="pb-16 w-3/4 mx-auto text-center space-y-6">
     <div class="text-black" style="font-size: 56px;font-family: 'Times New Roman'">Ancaman dosa RIBA sangat mengerikan dan menakutkan. Bagaimana solusinya ?</div>
     <div class="text-black" style="font-size: 27px;font-family: 'calibri'">Grand Shafa berharga ratusan juta. Bagi sebagian orang mungkin akan merasa tidak mungkin memiliki rumah yang harganya ratusan juta tanpa meminjam ke bank.
@@ -290,18 +316,18 @@ Tetapi itu semua bisa dilakukan, yaitu memiliki rumah di Grand Shafa ini tanpa t
               <?php foreach([
                 [
                   "fas fa-exclamation-triangle",
-                  "Tanpa Denda",
-                  "Sebagai seorang muslim seharusnya menjauhi riba, karena ancaman riba menakutkan baik  ancaman di dunia maupun di akhirat."
+                  "Bebas Bunga dan Denda",
+                  "Perbankan konvensional menerapkan denda atas keterlambatan angsuran. Grand Shafa Kertosari tak akan membuat Anda terbebani dengan denda. Kami mengutamakan kenyamanan Anda. Dan tentu saja, bebas bunga dengan akad syariah"
                 ],
                 [
                   "fas fa-university",
-                  "Tanpa Pihak Ketiga",
-                  "Pengembang perumahan Syariah ini melakukan jual rumah antara pihak pengembang dan konsumen tanpa ada pihak bank konvensional sehingga terjadi antara penjual dan pembeli."
+                  "Bebas Sita",
+                  "Dalam hadist dijelaskan bahwa sita menyita merupakan jalan dan alternatif terakhir didasari hal tersebut, jika Anda mengalami kendala dalam pembayaran angsuran, solusi bukan berarti sita rumah. Kami berkomitmen untuk mencari jalan terbaik bagi semua pihak, menjaga kemudahan bagi Anda dan tanpa membebani pengembang."
                 ],
                 [
                   "far fa-calendar-times",
-                  "Tanpa Denda",
-                  "Apabila Anda mengangsur, kemudian terlambat dalam melakukan angsuran maka di Marifa tidak akan melakukan denda kepada Anda dan juga tidak melakukan bunga."
+                  "Legalitas terjamin",
+                  "Penipuan oleh pengembang tak berizin bukanlah hal baru. Kami berbeda, Grand Shafa Kertosari adalah bagian dari PT. Darya Hamsa Mulia yang termasuk dalam Mapan Jaya Group, memberikan legalitas kuat atas setiap kavling tanah yang akan kami bangun."
                 ],
               ] as $row): ?>
               <div
@@ -347,18 +373,18 @@ Tetapi itu semua bisa dilakukan, yaitu memiliki rumah di Grand Shafa ini tanpa t
             <?php foreach([
                 [
                   "fas fa-gavel",
-                  "Tanpa Sita Paksa",
-                  "Dari berita yang beredar, terkadang rumah disita paksa oleh bank karena pembeli rumah tidak bisa meneruskan angsuran.  Tetapi di perumahan Syariah hal tersebut tidak akan dilakukan. Apabila konsumen tidak bisa meneruskan angsuran maka rumah tidak akan disita tetapi akan ada solusi yang sangat menentramkan antara pihak pengmbang dan pihak pembeli rumah."
+                  "Tanpa Pihak Ketiga",
+                  "Setiap pembelian unit rumah di Grand Shafa Kertosari dilakukan antara pihak developer dan konsumen tanpa perantara bank atau pihak ketiga. Ini tentang transparansi dan kepercayaan"
                 ],
                 [
                   "far fa-handshake",
-                  "Tanpa Akad Bermasalah",
-                  "Ketika DP disetorkan maka pihak pembeli sudah memiliki hak terhadap rumah. Dan pembeli memiliki kewajiban untuk melunasi sisa cicilan ke pengembang."
+                  "Akad syar'i Jual Beli",
+                  "Setiap pembelian dijamin akad syar'i. Dalam Islam, jual beli diizinkan selama tak merugikan dan sesuai aturan yang ada. Di Grand Shafa Kertosari, kami berpegang teguh pada prinsip ini."
                 ],
                 [
                   "fas fa-book",
-                  "Tanpa Asuransi",
-                  "Kami tidak menerapkan asuransi karena asuransi ada unsur judi dan gharar. Selama rumah tersebut belum diserah terimakan maka pihak developer yang menjaganya."
+                  "Semua Tanah dan Kavling sudah bersertifikat",
+                  "Setiap tanah dan kavling di Grand Shafa Kertosari memiliki sertifikat atas nama PT. Darya Hamsa Mulia, bukan perseorangan. Kejelasan ini akan terus terpelihara saat nama properti dialihkan kepada Anda."
                 ],
               ] as $row): ?>
               <div
@@ -401,7 +427,7 @@ Tetapi itu semua bisa dilakukan, yaitu memiliki rumah di Grand Shafa ini tanpa t
     </div>
   </section>
 
-  <div style="background: #022c67;" class="text-white mt-16" id="about">
+  <div style="background: black;" class="text-white mt-16" id="about">
     <section
       class="elementor-section elementor-top-section elementor-element elementor-element-6a01cc30 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default w-3/4 mx-auto py-16"
       data-id="6a01cc30" data-element_type="section"
@@ -459,8 +485,8 @@ Tetapi itu semua bisa dilakukan, yaitu memiliki rumah di Grand Shafa ini tanpa t
               data-id="4896db8e" data-element_type="widget" data-widget_type="text-editor.default">
               <div class="elementor-widget-container">
                 <p>Lokasi strategis di kota Ponorogo, lokasi yang bebas banjir dan kawasan berupa perumahan elit,
-                  menjadikan perumahan Marifa Skyland menjadi dambaan dan impian kebanyakan orang.</p>
-                <p>Proses pembeliannya tidak ribet, Anda akan merasakan ketenangan memiliki rumah di Marifa Skyland. Anda
+                  menjadikan perumahan Grand Shafa menjadi dambaan dan impian kebanyakan orang.</p>
+                <p>Proses pembeliannya tidak ribet, Anda akan merasakan ketenangan memiliki rumah di Grand Shafa. Anda
                   bisa mengangsur tanpa riba rumah Anda berkah dan nyaman. Apabila ada kendala dalam angsuran tidak akan
                   didenda maupun dan tidak akan disita.</p>
               </div>
@@ -539,7 +565,7 @@ Tetapi itu semua bisa dilakukan, yaitu memiliki rumah di Grand Shafa ini tanpa t
               class="elementor-element elementor-element-3c584bc3 de_scroll_animation_no elementor-widget elementor-widget-text-editor"
               data-id="3c584bc3" data-element_type="widget" data-widget_type="text-editor.default">
               <div class="elementor-widget-container">
-                <p>Berikut ini adalah jarak lokasi Marifa Skyland terhadap fasilitas umum yang ada.</p>
+                <p>Berikut ini adalah jarak lokasi Grand Shafa terhadap fasilitas umum yang ada.</p>
               </div>
             </div>
             <div
@@ -812,7 +838,7 @@ Tetapi itu semua bisa dilakukan, yaitu memiliki rumah di Grand Shafa ini tanpa t
     </div>
   </section>
     
-  <div style="background: #022c67;" id="contact">    
+  <div style="background: black;" id="contact">    
     <section class="py-16 w-1/2 mx-auto text-center text-white">
       <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6bc29f2"
         data-id="6bc29f2" data-element_type="column">
@@ -869,8 +895,7 @@ Tetapi itu semua bisa dilakukan, yaitu memiliki rumah di Grand Shafa ini tanpa t
             class="elementor-element elementor-element-9914c8c de_scroll_animation_no elementor-widget elementor-widget-heading"
             data-id="9914c8c" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-              <h6 class="elementor-heading-title elementor-size-default text-white"><b><b>Apa Lagi Yang Anda Tunggu? Segera! Sebelum
-                    Harga Naik Lagi!</b></b></h6>
+              <h6 class="elementor-heading-title elementor-size-default text-white"><b><b>Tunggu apa lagi? Segera! Sebelum harga naik!</b></b></h6>
             </div>
           </div>
           <div
@@ -882,7 +907,7 @@ Tetapi itu semua bisa dilakukan, yaitu memiliki rumah di Grand Shafa ini tanpa t
                       <span class="elementor-button-content-wrapper">
                         <span class="elementor-button-icon elementor-align-icon-left">
                           <i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
-                        <span class="elementor-button-text">Klik di sini</span>
+                        <span class="elementor-button-text">Hubungi Kami</span>
                       </span>
                     </a></b></b></div>
             </div>
