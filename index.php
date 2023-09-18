@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Navigation Menu</title>
+  <title>Grandshafa Kertosari</title>
   <link rel="icon" type="image/x-icon" href="gsk_logo-removebg.ico">
   <!-- <link data-optimized="2" rel="stylesheet" href="https://www.marifa.id/wp-content/litespeed/css/aaa2a8fed9b9500c578296f9ee746ad4.css?ver=6f193"> -->
   <link href="./pages/min.css" rel="stylesheet">
