@@ -22,6 +22,7 @@
     <!-- Responsive css -->
     <link rel="stylesheet" href="css/responsive.css">
 </head>
+    
 
 <body>
     <!--[if lte IE 9]>
