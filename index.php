@@ -1,1082 +1,1799 @@
-<!DOCTYPE html>
-<!-- saved from url=(0159)http://preview.themeforest.net/item/propper-architecture-html-template/full_screen_preview/17732181?_ga=2.161898044.1094471219.1695548761-2005070465.1695548761 -->
-<html lang="en" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
-    <link rel="dns-prefetch" href="http://s3.envato.com/">
-    <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png" as="image">
-    <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
+<!doctype html>
+<html class="no-js" lang="zxx">
 
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Propper - Responsive Architecture Template Preview - ThemeForest</title>
-    <meta name="description" content="&amp;lt;h2 id=&amp;quot;item-description__propper-architecture-and-real-estate-one-page-landing-page&amp;quot...">
-    <meta name="robots" content="noindex, nofollow">
-    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
-    <meta name="turbo-visit-control" content="reload">
 
-    <link rel="stylesheet" media="all" href="./Propper - Responsive Architecture Template Preview - ThemeForest_files/index-5587432f6207f477a36d216252f6adaa85097911384805555f4d191def3edf60.css">
-    <link rel="stylesheet" media="all" href="./Propper - Responsive Architecture Template Preview - ThemeForest_files/index-c20c294967c4ed0be90d33e130e591a57859fccaebd0a19bf00bf499d001afc3.css">
+<!-- Mirrored from tunatheme.com/tf/html/quarter-preview/quarter/index-11.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Sep 2023 15:13:29 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Grandshafa Kertosari</title>
+    <meta name="robots" content="noindex, follow" />
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-72x72-precomposed.png" sizes="72x72">
-    <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-114x114-precomposed.png" sizes="114x114">
-    <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-144x144-precomposed.png" sizes="144x144">
-    <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-precomposed.png">
+    <!-- Place favicon.png in the root directory -->
+    <link rel="shortcut icon" href="./img/gsk_logo.png" type="image/x-icon" />
+    <!-- Font Icons css -->
+    <link rel="stylesheet" href="css/font-icons.css">
+    <!-- plugins css -->
+    <link rel="stylesheet" href="css/plugins.css">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Responsive css -->
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
 
-    <script type="text/javascript" charset="UTF-8" async="" src="./Propper - Responsive Architecture Template Preview - ThemeForest_files/state.js.download"></script>
-    <script type="text/javascript" async="" src="./Propper - Responsive Architecture Template Preview - ThemeForest_files/js" nonce="E8h0PO0E08qb/8y+/J8RCQ=="></script>
-    <script type="text/javascript" async="" src="./Propper - Responsive Architecture Template Preview - ThemeForest_files/js(1)" nonce="E8h0PO0E08qb/8y+/J8RCQ=="></script>
-    <script type="text/javascript" async="" src="./Propper - Responsive Architecture Template Preview - ThemeForest_files/linkid.js.download" nonce="E8h0PO0E08qb/8y+/J8RCQ=="></script>
-    <script type="text/javascript" async="" src="./Propper - Responsive Architecture Template Preview - ThemeForest_files/ec.js.download" nonce="E8h0PO0E08qb/8y+/J8RCQ=="></script>
-    <script type="text/javascript" async="" src="./Propper - Responsive Architecture Template Preview - ThemeForest_files/analytics.js.download"></script>
-    <script src="./Propper - Responsive Architecture Template Preview - ThemeForest_files/index-3256054c335e92012f49f8dce744657f8dc8b7333c815ff885ea733bb210d7ad.js.download" nonce="E8h0PO0E08qb/8y+/J8RCQ=="></script>
+<body>
+    <!--[if lte IE 9]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
 
-    <script nonce="E8h0PO0E08qb/8y+/J8RCQ==">
-//<![CDATA[
-      //function to fix height of iframe!
-      var calcHeight = function() {
-        var headerDimensions = $('.preview__header').height();
-        $('.full-screen-preview__frame').height($(window).height() - headerDimensions);
-      }
+    <!-- Add your site or application content here -->
 
-      $(document).ready(function() {
-        calcHeight();
-      });
+<!-- Body main wrapper start -->
+<div class="body-wrapper">
 
-      $(window).resize(function() {
-        calcHeight();
-      }).load(function() {
-        calcHeight();
-      });
-
-//]]>
-</script>
-    
-  <style type="text/css" id="CookieConsentStateDisplayStyles">.cookieconsent-optin-preferences,.cookieconsent-optin-statistics,.cookieconsent-optin-marketing,.cookieconsent-optin{display:none;}.cookieconsent-optout-preferences,.cookieconsent-optout-statistics,.cookieconsent-optout-marketing,.cookieconsent-optout{display:block;display:initial;}</style></head>
-    <!-- Include Font Awesome from a CDN -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <!-- Include Elegant Fonts from a CDN -->
-    <link href="./style-elegant.css" rel="stylesheet" type="text/css">
-    <!-- Include Montserrat font from Google Fonts CDN -->
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <!-- Include Bootstrap CSS from a CDN -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <!-- Include Owl Carousel CSS from a CDN -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" type="text/css">
-    <!-- Include Magnific Popup CSS from a CDN -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" type="text/css">
-    <link rel="stylesheet" href="./style.css" type="text/css">
-    <style>
-        *{
-            opacity: 1!important;
-        }
-        .hero-section {
-            height: 618px!important;
-        }
-    </style>
-    <body class="links-hover-effect  pace-done" data-spy="scroll" data-target=".navigation"><div class="pace  pace-inactive"><div class="pace-progress" data-progress-text="100%" data-progress="99" style="transform: translate3d(100%, 0px, 0px);">
-
-    </div>
-    <div class="pace-activity"></div></div>
-    
-    <div class="page-wrapper loading-done hide-loading-screen" id="page-top">
-        <header id="page-header">
-            <nav class="navigation background-is-dark show-background">
-                <div class="container">
-                    <div class="wrapper">
-                        <div class="left">
-                            <a href="index-v1.html" class="brand hover-effect"><span><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo.png" alt=""></div><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo.png" alt=""></div></span></a>
-                        </div>
-                        <!--end left-->
-                        <div class="right">
-                            <ul class="nav navigation-links animate show">
-                                <li class="active"><a href="#page-top" class="scroll hover-effect"><span><div class="hover-element">Home</div><div class="hover-element">Home</div></span></a></li>
-                                <li><a href="#about" class="scroll hover-effect"><span><div class="hover-element">About</div><div class="hover-element">About</div></span></a></li>
-                                <li><a href="#gallery" class="scroll hover-effect"><span><div class="hover-element">Gallery</div><div class="hover-element">Gallery</div></span></a></li>
-                                <li><a href="#pricing" class="scroll hover-effect"><span><div class="hover-element">Pricing</div><div class="hover-element">Pricing</div></span></a></li>
-                                <li><a href="#contact" class="scroll hover-effect"><span><div class="hover-element">Contact</div><div class="hover-element">Contact</div></span></a></li>
-                            </ul>
-                            <div class="nav-btn">
-                                <figure></figure>
-                                <figure></figure>
-                                <figure></figure>
-                            </div>
-                        </div>
-                        <!--end right-->
-                    </div>
-                </div>
-                <!--end container-->
-            </nav>
-            <!--end navigation-->
-            <div class="hero-section background-is-dark" style="height: 575px;">
-                <div class="wrapper">
-                    <div class="hero-title">
-                        <div class="container">
-                            <h1 class="animate show">Grandshafa Kertosari.<br>Membersamai dalam meraih keberkahan.</h1>
-                            <form class="animate show" id="form-hero">
-                                <label for="form-hero-email">Enter your email for the latest news</label>
-                                <div class="row">
-                                    <div class="col-md-5 col-sm-5">
-                                        <div class="input-group">
-                                            <input type="email" class="form-control" id="form-hero-email" name="email" placeholder="Your email" required="">
-                                            <span class="input-group-btn">
-                                                <button class="btn hover-effect" type="submit"><span><div class="hover-element"><i class="arrow_right"></i></div><div class="hover-element"><i class="arrow_right"></i></div></span></button>
-                                            </span>
-                                        </div><!-- /input-group -->
-                                    </div>
-                                </div>
-                            </form>
-                            <!--end form-hero-->
-                        </div>
-                        <!--end container-->
-                    </div>
-                    <!--end hero-title-->
-                </div>
-                <!--end wrapper-->
-                <div class="owl-carousel owl-theme owl-loaded" data-owl-dots="0" data-owl-nav="1" data-owl-autoplay="1" data-owl-loop="1" data-owl-fadeout="1">
-                    
-                    
-                    
-                <div class="owl-stage-outer owl-height" style="height: 575px;"><div class="owl-stage" style="transform: translate3d(-5490px, 0px, 0px); transition: all 0s ease 0s; width: 7686px;"><div class="owl-item cloned" style="width: 1098px; margin-right: 0px;"><div class="hero-slide">
-                        <div class="bg-transfer" style="background-image: url(&quot;assets/img/gallery-big-01.jpg&quot;);"><img src="http://themestarz.net/html/propper/assets/img/gallery-big-01.jpg" alt=""></div>
-                    </div></div><div class="owl-item cloned" style="width: 1098px; margin-right: 0px;"><div class="hero-slide">
-                        <div class="bg-transfer" style="background-image: url(&quot;assets/img/gallery-big-02.jpg&quot;);"><img src="http://themestarz.net/html/propper/assets/img/gallery-big-02.jpg" alt=""></div>
-                    </div></div><div class="owl-item" style="width: 1098px; margin-right: 0px;"><div class="hero-slide">
-                        <div class="bg-transfer" style="background-image: url(&quot;assets/img/gallery-big-04.jpg&quot;);"><img src="http://themestarz.net/html/propper/assets/img/gallery-big-04.jpg" alt=""></div>
-                    </div></div><div class="owl-item" style="width: 1098px; margin-right: 0px;"><div class="hero-slide">
-                        <div class="bg-transfer" style="background-image: url(&quot;assets/img/gallery-big-01.jpg&quot;);"><img src="http://themestarz.net/html/propper/assets/img/gallery-big-01.jpg" alt=""></div>
-                    </div></div><div class="owl-item" style="width: 1098px; margin-right: 0px;"><div class="hero-slide">
-                        <div class="bg-transfer" style="background-image: url(&quot;assets/img/gallery-big-02.jpg&quot;);"><img src="http://themestarz.net/html/propper/assets/img/gallery-big-02.jpg" alt=""></div>
-                    </div></div><div class="owl-item cloned active" style="width: 1098px; margin-right: 0px;"><div class="hero-slide">
-                        <div class="bg-transfer" style="background-image: url(&quot;assets/img/gallery-big-04.jpg&quot;);"><img src="http://themestarz.net/html/propper/assets/img/gallery-big-04.jpg" alt=""></div>
-                    </div></div><div class="owl-item cloned" style="width: 1098px; margin-right: 0px;"><div class="hero-slide">
-                        <div class="bg-transfer" style="background-image: url(&quot;assets/img/gallery-big-01.jpg&quot;);"><img src="http://themestarz.net/html/propper/assets/img/gallery-big-01.jpg" alt=""></div>
-                    </div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;"></div><div class="owl-next" style="display: none;"></div></div><div class="owl-dots" style="display: block;"></div></div></div>
-                <!--end owl-carousel-->
-            </div>
-            <!--end hero-section-->
-        </header>
-        <!--end page-header-->
-    
-        <div id="page-content">
-    
-            <div class="block background-is-dark">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-4 col-sm-4">
-                            <div class="feature has-icon" data-scroll-reveal="enter left and move 20px" data-scroll-reveal-initialized="true" data-scroll-reveal-complete="true">
-                                <i class="icon"><img src="http://themestarz.net/html/propper/assets/img/icon-white-shield.png" alt=""></i>
-                                <!--end icon-->
-                                <div class="description">
-                                    <h3>Bebas Denda &amp;</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac ornare felis.
-                                        Nam velit neque, blandit id placerat
-                                    </p>
-                                    <a href="" class="btn btn-default btn-rounded arrow hover-effect"><span><div class="hover-element">Read More</div><div class="hover-element">Read More</div></span></a>
-                                </div>
-                                <!--end description-->
-                            </div>
-                            <!--end feature-->
-                        </div>
-                        <!--end col-md-4-->
-                        <div class="col-md-4 col-sm-4">
-                            <div class="feature has-icon" data-scroll-reveal="enter bottom and move 20px" data-scroll-reveal-initialized="true" data-scroll-reveal-complete="true">
-                                <i class="icon"><img src="http://themestarz.net/html/propper/assets/img/icon-white-pin.png" alt=""></i>
-                                <!--end icon-->
-                                <div class="description">
-                                    <h3>Proses pembangunan & pengurusan tidak ribet</h3>
-                                    <p>Mauris ac ornare felis. Nam velit neque, blandit id placerat eu, venenatis at purus.
-                                        Nunc maximus ultrices lacus
-                                    </p>
-                                    <a href="" class="btn btn-default btn-rounded arrow hover-effect"><span><div class="hover-element">Read More</div><div class="hover-element">Read More</div></span></a>
-                                </div>
-                                <!--end description-->
-                            </div>
-                            <!--end feature-->
-                        </div>
-                        <!--end col-md-4-->
-                        <div class="col-md-4 col-sm-4">
-                            <div class="feature has-icon" data-scroll-reveal="enter right and move 20px" data-scroll-reveal-initialized="true" data-scroll-reveal-complete="true">
-                                <i class="icon"><img src="http://themestarz.net/html/propper/assets/img/icon-white-wallet.png" alt=""></i>
-                                <!--end icon-->
-                                <div class="description">
-                                    <h3>Lokasi sangat strategis yang bebas banjir di Kota Ponorogo</h3>
-                                    <p>Nam velit neque, blandit id placerat eu, venenatis at purus. Nunc maximus ultrices
-                                        lacus eu fringilla.
-                                    </p>
-                                    <a href="" class="btn btn-default btn-rounded arrow hover-effect"><span><div class="hover-element">Read More</div><div class="hover-element">Read More</div></span></a>
-                                </div>
-                                <!--end description-->
-                            </div>
-                            <!--end feature-->
-                        </div>
-                        <!--end col-md-4-->
-                    </div>
-                    <!--end row-->
-                </div>
-                <!--end container-->
-                <div class="background-wrapper">
-                    <div class="bg-transfer opacity-15" style="background-image: url(&quot;assets/img/bg-01.jpg&quot;);">
-                        <img src="http://themestarz.net/html/propper/assets/img/bg-01.jpg" alt="">
-                    </div>
-                    <div class="background-color background-color-black"></div>
-                </div>
-                <!--end background-wrapper-->
-            </div>
-            <!--end block-->
-    
-            <div class="block" id="about" style="background-color: rgb(255 255 255 / 92%);">
-                <div class="container">
-                    <h2>About.</h2>
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6">
-                            <h3>Hunian Mewah dan Peluang Investasi di Perumahan Grand Shafa Kertosari</h3>
-                            <p>
-                                Apakah Anda tengah mencari hunian yang nyaman sekaligus peluang investasi yang menjanjikan? Grand Shafa Kertosari hadir sebagai solusi sempurna untuk kedua kebutuhan Anda. Dengan harga properti yang terus meningkat, Anda tidak hanya mendapatkan tempat tinggal yang nyaman, tetapi juga investasi yang berpotensi memberikan keuntungan di masa depan. Terletak secara strategis di Kota Ponorogo, di lingkungan bebas banjir, Grand Shafa Kertosari telah menjadi impian bagi banyak individu.
-Proses pembelian di Grand Shafa Kertosari dipermudah untuk memberikan Anda pengalaman yang tenang dan bebas ribet. Dengan opsi angsuran tanpa riba, Anda dapat merencanakan kepemilikan rumah yang berkah dan nyaman. Anda tak perlu khawatir tentang kemungkinan hambatan dalam angsuran. Di Grand Shafa Kertosari, tidak ada denda ataupun risiko penyitaan yang mengintai jika situasi tak terduga terjadi.
-Keunggulan lokasi juga menjadi magnet utama di Grand Shafa Kertosari. Keterhubungan dekat dengan pusat Kota Ponorogo memastikan akses mudah ke beragam fasilitas penting. Dengan populasi yang padat di sekitar dan fasilitas pendidikan serta kesehatan yang berdekatan, Anda akan menikmati kenyamanan dalam menjalani aktivitas harian.
-Jangan lewatkan peluang untuk bergabung dengan komunitas Grand Shafa Kertosari. Hunian dan investasi yang menjanjikan telah menanti Anda. Hubungi kami segera untuk informasi lebih lanjut, dan wujudkan impian Anda memiliki hunian ideal dan investasi cerdas di masa depan.
-                            </p>
-                            <ul class="check-marks">
-                                <li>Lingkungan yang Terjaga: Pagar Tembok Keliling</li>
-                                <li>Keamanan Tanpa Henti: CCTV dan Satpam 24 Jam</li>
-                                <li>Pintu Satu Akses: One Gate System</li>
-                                <li>Masjid Perumahan</li>
-                                <li>Playground</li>
-                                <li>Lampu penerangan jalan di setiap rumah</li>
-                            </ul>
-                            <!--end ul-->
-                        </div>
-                        <!--end col-md-6-->
-                        <!--end col-md-6-->
-                        <div class="col-md-6 col-sm-6">
-                            <h3>Video presentation</h3>
-                            <a href="http://vimeo.com/24506451" class="video-player video-popup" data-scroll-reveal="enter bottom and move 50px" style="-webkit-transform: translatey(50px);transform: translatey(50px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                <i class="play-icon arrow_triangle-right"></i>
-                                <div class="has-overlay">
-                                    <img src="http://themestarz.net/html/propper/assets/img/image-video.jpg" alt="">
-                                </div>
-                            </a>
-                            <figure class="note">Let’s check the benefits of this project from the architect</figure>
-                            <!--end video-player-->
-                        </div>
-                        <!--end col-md-6-->
-                    </div>
-                    <!--end row-->
-                </div>
-                <!--end container-->
-                <div class="background-wrapper">
-                    <div class="background-color background-color-black opacity-5"></div>
-                </div>
-                <!--end background-wrapper-->
-            </div>
-            <!--end block-->
-    
-            <div class="block">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-3 col-sm-3">
-                            <div class="stage completed" data-scroll-reveal="enter left and move 20px" style="-webkit-transform: translatex(-20px);transform: translatex(-20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                <div class="icon">
-                                    <i class="icon_check"></i>
-                                </div>
-                                <!--end icon-->
-                                <div class="description">
-                                    <h3>1. Stage</h3>
-                                    <h2>Planning</h2>
-                                    <!-- <figure>Completed</figure> -->
-                                </div>
-                                <!--end description-->
-                            </div>
-                            <!--end stage-->
-                        </div>
-                        <!--end col-md-3-->
-                        <div class="col-md-3 col-sm-3">
-                            <div class="stage completed" data-scroll-reveal="enter left and move 20px after 0.2s" style="-webkit-transform: translatex(-20px);transform: translatex(-20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                <div class="icon">
-                                    <i class="icon_check"></i>
-                                </div>
-                                <!--end icon-->
-                                <div class="description">
-                                    <h3>2. Stage</h3>
-                                    <h2>Building</h2>
-                                    <!-- <figure>Completed</figure> -->
-                                </div>
-                                <!--end description-->
-                            </div>
-                            <!--end stage-->
-                        </div>
-                        <!--end col-md-3-->
-                        <div class="col-md-3 col-sm-3">
-                            <div class="stage in-progress" data-scroll-reveal="enter left and move 20px after 0.4s" style="-webkit-transform: translatex(-20px);transform: translatex(-20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                <div class="icon">
-                                    <i class="icon_hourglass"></i>
-                                </div>
-                                <!--end icon-->
-                                <div class="description">
-                                    <h3>3. Stage</h3>
-                                    <h2>Finishing works</h2>
-                                    <!-- <figure>In progress</figure> -->
-                                </div>
-                                <!--end description-->
-                            </div>
-                            <!--end stage-->
-                        </div>
-                        <!--end col-md-3-->
-                        <div class="col-md-3 col-sm-3">
-                            <div class="stage not-completed" data-scroll-reveal="enter left and move 20px after 0.6s" style="-webkit-transform: translatex(-20px);transform: translatex(-20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                <div class="icon">
-                                    <i class="icon_close"></i>
-                                </div>
-                                <!--end icon-->
-                                <div class="description">
-                                    <h3>4. Stage</h3>
-                                    <h2>Project done</h2>
-                                    <!-- <figure>Not completed</figure> -->
-                                </div>
-                                <!--end description-->
-                            </div>
-                            <!--end stage-->
-                        </div>
-                        <!--end col-md-3-->
-                    </div>
-                    <!--end row-->
-                </div>
-                <!--end container-->
-            </div>
-            <!--end block-->
-    
-            <div class="block">
-                <div class="container">
-                    <div class="detail left-align">
-                        <div class="title">
-                            <h3 class="framed">Unit Rumah &amp; Tipe 103</h3>
-                        </div>
-                        <!--end title-->
-                        <div class="row">
-                            <div class="col-md-7 col-sm-7">
-                                <div class="gallery" data-scroll-reveal="enter left and move 20px after" style="-webkit-transform: translatex(-20px);transform: translatex(-20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                    <div class="owl-carousel one-item-carousel owl-theme owl-loaded" data-owl-items="1" data-owl-margin="0" data-owl-nav="0" data-owl-dots="1">
-                                        
-                                        
-                                        
-                                    <div class="owl-stage-outer owl-height" style="height: 292px;"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1398px;"><div class="owl-item active" style="width: 466px; margin-right: 0px;"><img src="http://themestarz.net/html/propper/assets/img/gallery-01.jpg" alt=""></div><div class="owl-item" style="width: 466px; margin-right: 0px;"><img src="http://themestarz.net/html/propper/assets/img/image-video.jpg" alt=""></div><div class="owl-item" style="width: 466px; margin-right: 0px;"><img src="http://themestarz.net/html/propper/assets/img/gallery-02.jpg" alt=""></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;"></div><div class="owl-next" style="display: none;"></div></div><div class="owl-dots" style="display: none;"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div></div>
-                                </div>
-                                <!--end gallery-->
-                            </div>
-                            <!--end col-md-7-->
-                            <div class="col-md-5 col-sm-5">
-                                <div class="description" data-scroll-reveal="enter right and move 20px" style="-webkit-transform: translatex(20px);transform: translatex(20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                    <h4>High quality materials</h4>
-                                    <p>Proin orci nisl, posuere viverra erat ut, pellentesque interdum urna. Curabitur
-                                        eu risus convallis, auctor augue id, pharetra neque. Morbi pretium neque ac varius
-                                        imperdiet. Aliquam sed sapien eget massa hendrerit aliquet. Integer auctor vel
-                                        ligula eget faucibus
-                                    </p>
-                                    <h4>Soundproof rooms</h4>
-                                    <p>Donec tincidunt fermentum purus, eu pharetra arcu scelerisque a. Maecenas felis eros,
-                                        volutpat ac justo non, imperdiet porttitor lorem. Nulla suscipit mi a arcu sollicitudin,
-                                        sit amet
-                                    </p>
-                                </div>
-                                <!--end description-->
-                            </div>
-                            <!--end col-md-5-->
-                        </div>
-                        <!--end row-->
-                    </div>
-                    <!--end detail-->
-                    <div class="detail right-align">
-                        <div class="title">
-                            <h3 class="framed">Unit Rumah &amp; Tipe 74</h3>
-                        </div>
-                        <!--end title-->
-                        <div class="row">
-                            <div class="col-md-5 col-sm-5">
-                                <div class="description" data-scroll-reveal="enter left and move 20px after" style="-webkit-transform: translatex(-20px);transform: translatex(-20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                    <h4>Feel your new home</h4>
-                                    <p>Proin orci nisl, posuere viverra erat ut, pellentesque interdum urna. Curabitur
-                                        eu risus convallis, auctor augue id, pharetra neque. Morbi pretium neque ac varius
-                                        imperdiet. Aliquam sed sapien eget massa hendrerit aliquet. Integer auctor vel
-                                        ligula eget faucibus. Donec tincidunt fermentum purus, eu pharetra arcu scelerisque a.
-                                        Maecenas felis eros, volutpat ac justo non, imperdiet porttitor
-                                    </p>
-                                </div>
-                                <!--end description-->
-                            </div>
-                            <!--end col-md-5-->
-                            <div class="col-md-7 col-sm-7">
-                                <div class="gallery" data-scroll-reveal="enter right and move 20px" style="-webkit-transform: translatex(20px);transform: translatex(20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                    <div class="owl-carousel one-item-carousel owl-theme owl-loaded" data-owl-items="1" data-owl-margin="0" data-owl-nav="0" data-owl-dots="1">
-                                        
-                                        
-                                        
-                                    <div class="owl-stage-outer owl-height" style="height: 292px;"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1398px;"><div class="owl-item active" style="width: 466px; margin-right: 0px;"><img src="http://themestarz.net/html/propper/assets/img/gallery-02.jpg" alt=""></div><div class="owl-item" style="width: 466px; margin-right: 0px;"><img src="http://themestarz.net/html/propper/assets/img/gallery-01.jpg" alt=""></div><div class="owl-item" style="width: 466px; margin-right: 0px;"><img src="http://themestarz.net/html/propper/assets/img/image-video.jpg" alt=""></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;"></div><div class="owl-next" style="display: none;"></div></div><div class="owl-dots" style="display: none;"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div></div>
-                                </div>
-                                <!--end gallery-->
-                            </div>
-                            <!--end col-md-7-->
-                        </div>
-                        <!--end row-->
-                    </div>
-                    <!--end detail-->
-                </div>
-                <!--end container-->
-            </div>
-            <!--end block-->
-    
-            <div class="block" id="gallery">
-                <div class="container">
-                    <h2>Gallery.</h2>
-                </div>
-                <div class="owl-carousel big-gallery owl-theme owl-loaded" data-owl-items="3" data-owl-auto-width="1" data-owl-nav="1" data-owl-dots="0" data-owl-center="1" data-owl-loop="1" data-owl-nav-container="#big-gallery-nav">
-                    
-                    <!--end slide-->
-                    
-                    <!--end slide-->
-                    
-                    <!--end slide-->
-                <div class="owl-stage-outer owl-height" style="height: 663px;"><div class="owl-stage" style="transition: all 0s ease 0s; width: 8730px; transform: translate3d(-2846px, 0px, 0px);"><div class="owl-item cloned" style="width: auto; margin-right: 0px;"><div class="slide">
-                        <div class="container">
-                            <img src="http://themestarz.net/html/propper/assets/img/gallery-big-01.jpg" alt="">
-                            <div class="description">
-                                <h3 class="framed">Front View</h3>
-                            </div>
-                        </div>
-                        <!--end container-->
-                    </div></div><div class="owl-item cloned" style="width: auto; margin-right: 0px;"><div class="slide">
-                        <div class="container">
-                            <img src="http://themestarz.net/html/propper/assets/img/gallery-big-02.jpg" alt="">
-                            <div class="description">
-                                <h3 class="framed">Garage</h3>
-                            </div>
-                        </div>
-                        <!--end container-->
-                    </div></div><div class="owl-item cloned" style="width: auto; margin-right: 0px;"><div class="slide">
-                        <div class="container">
-                            <img src="http://themestarz.net/html/propper/assets/img/gallery-big-03.jpg" alt="" style="opacity: 1;">
-                            <div class="description">
-                                <h3 class="framed">Back View</h3>
-                            </div>
-                        </div>
-                        <!--end container-->
-                    </div></div><div class="owl-item active center" style="width: auto; margin-right: 0px;"><div class="slide">
-                        <div class="container">
-                            <img src="http://themestarz.net/html/propper/assets/img/gallery-big-01.jpg" alt="">
-                            <div class="description">
-                                <h3 class="framed">Front View</h3>
-                            </div>
-                        </div>
-                        <!--end container-->
-                    </div></div><div class="owl-item active" style="width: auto; margin-right: 0px;"><div class="slide">
-                        <div class="container">
-                            <img src="http://themestarz.net/html/propper/assets/img/gallery-big-02.jpg" alt="">
-                            <div class="description">
-                                <h3 class="framed">Garage</h3>
-                            </div>
-                        </div>
-                        <!--end container-->
-                    </div></div><div class="owl-item" style="width: auto; margin-right: 0px;"><div class="slide">
-                        <div class="container">
-                            <img src="http://themestarz.net/html/propper/assets/img/gallery-big-03.jpg" alt="" style="opacity: 1;">
-                            <div class="description">
-                                <h3 class="framed">Back View</h3>
-                            </div>
-                        </div>
-                        <!--end container-->
-                    </div></div><div class="owl-item cloned" style="width: auto; margin-right: 0px;"><div class="slide">
-                        <div class="container">
-                            <img src="http://themestarz.net/html/propper/assets/img/gallery-big-01.jpg" alt="">
-                            <div class="description">
-                                <h3 class="framed">Front View</h3>
-                            </div>
-                        </div>
-                        <!--end container-->
-                    </div></div><div class="owl-item cloned" style="width: auto; margin-right: 0px;"><div class="slide">
-                        <div class="container">
-                            <img src="http://themestarz.net/html/propper/assets/img/gallery-big-02.jpg" alt="">
-                            <div class="description">
-                                <h3 class="framed">Garage</h3>
-                            </div>
-                        </div>
-                        <!--end container-->
-                    </div></div><div class="owl-item cloned" style="width: auto; margin-right: 0px;"><div class="slide">
-                        <div class="container">
-                            <img src="http://themestarz.net/html/propper/assets/img/gallery-big-03.jpg" alt="" style="opacity: 1;">
-                            <div class="description">
-                                <h3 class="framed">Back View</h3>
-                            </div>
-                        </div>
-                        <!--end container-->
-                    </div></div></div></div><div class="owl-controls"><div class="owl-dots" style="display: block;"></div></div></div>
-                <!--end big-gallery-->
-                <div class="container">
-                    <div class="owl-nav-wrapper">
-                        <div class="owl-nav" id="big-gallery-nav"><div class="owl-prev" style="display: none;"></div><div class="owl-next" style="display: none;"></div></div>
-                    </div>
-                    <!--end owl-nav-wrapper-->
-                </div>
-                <!--end container-->
-            </div>
-            <!--end block-->
-    
-            <div class="block" id="pricing">
-                <div class="container">
-                    <h2>Pricing.</h2>
-                    <div class="row">
-                        <div class="pricing-boxes">
-                            <div class="col-md-3 col-sm-3">
-                                <div class="price-box description">
-                                    <h3>Choose your apartment</h3>
-                                    <div class="price old">Old price</div>
-                                    <div class="price">New price</div>
-                                    <div class="values">
-                                        <figure>Apartment area</figure>
-                                        <figure>Balcony area</figure>
-                                        <figure>Parking place</figure>
-                                        <figure>Free apartments</figure>
-                                    </div>
-                                </div>
-                                <!--end description-->
-                            </div>
-                            <!--end col-md-3-->
-                            <div class="col-md-3 col-sm-3">
-                                <div class="price-box framed" data-scroll-reveal="enter bottom and move 20px" style="-webkit-transform: translatey(20px);transform: translatey(20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                    <h3>2 Room Apartment</h3>
-                                    <div class="price old">$99,000</div>
-                                    <div class="price">$79,000</div>
-                                    <div class="values">
-                                        <figure>83m<sup>2</sup></figure>
-                                        <figure>26m<sup>2</sup></figure>
-                                        <figure class="not-available"><i class="icon_close"></i></figure>
-                                        <figure>12</figure>
-                                    </div>
-                                    <a href="#" class="btn btn-rounded btn-framed btn-light-frame btn-primary hover-effect" data-toggle="modal" data-target="#floor-modal"><span><div class="hover-element">Apartment Details</div><div class="hover-element">Apartment Details</div></span></a>
-                                    <div class="price-box-footer">
-                                        <a href="" class="btn btn-rounded btn-primary hover-effect"><span><div class="hover-element">Contact us</div><div class="hover-element">Contact us</div></span></a>
-                                    </div>
-                                </div>
-                                <!--end price-box-->
-                            </div>
-                            <!--end col-md-3-->
-                            <div class="col-md-3 col-sm-3">
-                                <div class="price-box framed promoted" data-scroll-reveal="enter bottom and move 20px after 0.2s" style="-webkit-transform: translatey(20px);transform: translatey(20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                    <div class="promotion-title"><span>Best value for money</span></div>
-                                    <h3>3 Room Apartment</h3>
-                                    <div class="price old">$99,000</div>
-                                    <div class="price">$79,000</div>
-                                    <div class="values">
-                                        <figure>135m<sup>2</sup></figure>
-                                        <figure>45m<sup>2</sup></figure>
-                                        <figure class="available"><i class="icon_check"></i></figure>
-                                        <figure>7</figure>
-                                    </div>
-                                    <a href="#" class="btn btn-rounded btn-framed btn-light-frame btn-primary hover-effect" data-toggle="modal" data-target="#floor-modal"><span><div class="hover-element">Apartment Details</div><div class="hover-element">Apartment Details</div></span></a>
-                                    <div class="price-box-footer">
-                                        <a href="" class="btn btn-rounded btn-primary hover-effect"><span><div class="hover-element">Contact us</div><div class="hover-element">Contact us</div></span></a>
-                                    </div>
-                                </div>
-                                <!--end price-box-->
-                            </div>
-                            <!--end col-md-3-->
-                            <div class="col-md-3 col-sm-3">
-                                <div class="price-box framed" data-scroll-reveal="enter bottom and move 20px after 0.4s" style="-webkit-transform: translatey(20px);transform: translatey(20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                    <h3>4 Room Apartment</h3>
-                                    <div class="price old">$129,000</div>
-                                    <div class="price">$109,000</div>
-                                    <div class="values">
-                                        <figure>198m<sup>2</sup></figure>
-                                        <figure>67m<sup>2</sup></figure>
-                                        <figure class="available"><i class="icon_check"></i></figure>
-                                        <figure>9</figure>
-                                    </div>
-                                    <a href="#" class="btn btn-rounded btn-framed btn-light-frame btn-primary hover-effect" data-toggle="modal" data-target="#floor-modal"><span><div class="hover-element">Apartment Details</div><div class="hover-element">Apartment Details</div></span></a>
-                                    <div class="price-box-footer">
-                                        <a href="" class="btn btn-rounded btn-primary hover-effect"><span><div class="hover-element">Contact us</div><div class="hover-element">Contact us</div></span></a>
-                                    </div>
-                                </div>
-                                <!--end price-box-->
-                            </div>
-                            <!--end col-md-3-->
-                        </div>
-                    </div>
-                    <!--end row-->
-                </div>
-                <!--end container-->
-            </div>
-            <!--end block-->
-    
-            <div class="block">
-                <div class="container">
-                    <h2>FAQ.</h2>
-                    <div class="row">
-                        <div class="col-md-8 col-sm-8 equal-height" style="height: 257px;">
-                            <div class="panel-group background-solid" id="faq" role="tablist" aria-multiselectable="true" data-scroll-reveal="enter left and move 20px after" style="-webkit-transform: translatex(-20px);transform: translatex(-20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                <div class="panel panel-default">
-                                    <div class="panel-heading" role="tab" id="faq1">
-                                        <h4 class="panel-title">
-                                            <a role="button" data-toggle="collapse" data-parent="#faq" href="#answer1" aria-expanded="true" aria-controls="answer1" class="hover-effect"><span><div class="hover-element">Quite and peaceful location near the nature</div><div class="hover-element">Quite and peaceful location near the nature</div></span></a>
-                                        </h4>
-                                    </div>
-                                    <div id="answer1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="faq1">
-                                        <div class="panel-body">
-                                            <p>Nunc vel erat eget dolor lobortis venenatis eget in nulla. Aliquam sodales
-                                                elit in augue finibus, at sagittis enim vestibulum.
-                                                Vivamus varius, velit sollicitudin interdum cursus, augue purus dignissim
-                                                quam, dictum commodo lorem ante quis neque. Etiam massa erat, tristique
-                                                id semper ac, placerat ac magna.
-                                            </p>
-                                        </div>
-                                        <!--/ .panel-body-->
-                                    </div>
-                                    <!--/ .panel-collapse-->
-                                </div>
-                                <!--/ .panel-->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading" role="tab" id="faq2">
-                                        <h4 class="panel-title">
-                                            <a role="button" data-toggle="collapse" data-parent="#faq" href="#answer2" aria-expanded="true" aria-controls="answer2" class="hover-effect"><span><div class="hover-element">Shopping and fitness center right inside the complex</div><div class="hover-element">Shopping and fitness center right inside the complex</div></span></a>
-                                        </h4>
-                                    </div>
-                                    <div id="answer2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faq2">
-                                        <div class="panel-body">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dapibus
-                                                elit nibh, id scelerisque tortor ornare at. Maecenas finibus purus id massa
-                                                viverra, a commodo enim imperdiet. Donec ac magna non nisi hendrerit facilisis.
-                                                In a nisl mi. Fusce vulputate sodales laoreet. Phasellus et urna risus.
-                                            </p>
-                                        </div>
-                                        <!--/ .panel-body-->
-                                    </div>
-                                    <!--/ .panel-collapse-->
-                                </div>
-                                <!--/ .panel-->
-                                <div class="panel panel-default">
-                                    <div class="panel-heading" role="tab" id="faq3">
-                                        <h4 class="panel-title">
-                                            <a role="button" data-toggle="collapse" data-parent="#faq" href="#answer3" aria-expanded="true" aria-controls="answer3" class="hover-effect"><span><div class="hover-element">Lot of parking places, even for your visitors</div><div class="hover-element">Lot of parking places, even for your visitors</div></span></a>
-                                        </h4>
-                                    </div>
-                                    <div id="answer3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faq3">
-                                        <div class="panel-body">
-                                            <p>Donec ut pellentesque nunc. Maecenas malesuada et eros sed tristique. Cras
-                                                condimentum in ligula ac efficitur. Vestibulum tempor leo nec molestie bibendum.
-                                                Maecenas molestie ligula id efficitur venenatis. Maecenas venenatis mauris
-                                                in erat imperdiet, et suscipit ipsum pretium.
-                                            </p>
-                                        </div>
-                                        <!--/ .panel-body-->
-                                    </div>
-                                    <!--/ .panel-collapse-->
-                                </div>
-                                <!--/ .panel-->
-                            </div>
-                            <!--/ .panel-group-->
-                        </div>
-                        <div class="col-md-4 col-sm-4 equal-height" style="height: 257px;">
-                            <div class="framed vertical-aligned-wrapper" data-scroll-reveal="enter right and move 20px" style="-webkit-transform: translatex(20px);transform: translatex(20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                <form class="inputs-underline vertical-aligned-element middle">
-                                    <label>Subscribe to our newsletter to get the latest information</label>
-                                    <div class="input-group">
-                                        <input type="text" class="form-control" name="email" placeholder="Your email">
-                                        <span class="input-group-btn">
-                                            <button class="btn hover-effect" type="submit"><span><div class="hover-element"><i class="arrow_right"></i></div><div class="hover-element"><i class="arrow_right"></i></div></span></button>
-                                        </span>
-                                    </div><!-- /input-group -->
-                                    <p class="note">*Only relevant information, no spam</p>
-                                </form>
-                                <!--end form-->
-                            </div>
-                            <!--end framed-->
-                        </div>
-                    </div>
-                </div>
-                <!--end container-->
-            </div>
-            <!--end block-->
-    
+    <!-- HEADER AREA START (header-5) -->
+    <header class="ltn__header-area ltn__header-5 ltn__header-transparent--- gradient-color-4---">
+        <!-- ltn__header-top-area start -->
+        <div class="ltn__header-top-area section-bg-6 top-area-color-white---">
             <div class="container">
-                <div class="block background-is-dark">
-                    <div class="testimonials">
-                        <div class="row">
-                            <div class="col-md-10 col-sm-10 col-md-offset-1 col-sm-offset-1">
-                                <div class="owl-carousel owl-theme owl-loaded" data-owl-nav="0" data-owl-dots="1">
-                                    
-                                    <!--end blockquote-->
-                                    
-                                    <!--end blockquote-->
-                                    
-                                    <!--end blockquote-->
-                                <div class="owl-stage-outer owl-height" style="height: 127px;"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 2136px;"><div class="owl-item active" style="width: 712px; margin-right: 0px;"><blockquote>
-                                        <p>Sed vel lorem et velit dictum rhoncus eget sed orci. Vestibulum ante ipsum primis in faucibus orci luctus et.</p>
-                                        <footer>John Doe
-                                            <figure>River Side Apartments</figure>
-                                        </footer>
-                                    </blockquote></div><div class="owl-item" style="width: 712px; margin-right: 0px;"><blockquote>
-                                        <p>Ut ornare in dolor sit amet mollis. Aliquam molestie venenatis mi in efficitur. Lorem ipsum dolor sit amet</p>
-                                        <footer>Peter Brown
-                                            <figure>LTJ Investments</figure>
-                                        </footer>
-                                    </blockquote></div><div class="owl-item" style="width: 712px; margin-right: 0px;"><blockquote>
-                                        <p>Quisque eleifend tempor odio, sit amet maximus tortor hendrerit sollicitudin. Quisque mollis non justo id bibendum</p>
-                                        <footer>Suzane J. Bright
-                                            <figure>Archits Company</figure>
-                                        </footer>
-                                    </blockquote></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;"></div><div class="owl-next" style="display: none;"></div></div><div class="owl-dots" style="display: none;"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div></div>
-                            </div>
-                            <!--end col-md-8-->
-                        </div>
-                        <!--end row-->
-                    </div>
-                    <!--end testimonials-->
-                    <div class="background-wrapper">
-                        <div class="bg-transfer opacity-15" style="background-image: url(&quot;assets/img/gallery-big-01.jpg&quot;);">
-                            <img src="http://themestarz.net/html/propper/assets/img/gallery-big-01.jpg" alt="">
-                        </div>
-                        <div class="background-color background-color-black"></div>
-                    </div>
-                    <!--end background-wrapper-->
-                </div>
-                <!--end block-->
-            </div>
-            <!--end container-->
-    
-            <div class="block" id="contact">
-                <div class="container">
-                    <h2>Contact.</h2>
-                    <div class="contact map">
-                        <div class="row">
-                            <div class="col-md-6 col-sm-6" data-scroll-reveal="enter bottom and move 20px" style="-webkit-transform: translatey(20px);transform: translatey(20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                <h3>Map</h3>
-                                <div class="map" id="map"><div style="height: 100%; width: 100%;"></div><div style="background-color: white; font-weight: 500; font-family: Roboto, sans-serif; padding: 15px 25px; box-sizing: border-box; top: 5px; border: 1px solid rgba(0, 0, 0, 0.12); border-radius: 5px; left: 50%; max-width: 375px; position: absolute; transform: translateX(-50%); width: calc(100% - 10px); z-index: 1;"><div><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/google_gray.svg" draggable="false" style="padding: 0px; margin: 0px; border: 0px; height: 17px; vertical-align: middle; width: 52px; user-select: none;"></div><div style="line-height: 20px; margin: 15px 0px;"><span style="color: rgba(0, 0, 0, 0.87); font-size: 14px;">Halaman ini tidak dapat memuat Google Maps dengan benar.</span></div><table style="width: 100%;"><tr><td style="line-height: 16px; vertical-align: middle;"><a href="https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&amp;utm_medium=degraded&amp;utm_campaign=keyless#api-key-and-billing-errors" target="_blank" rel="noopener" style="color: rgba(0, 0, 0, 0.54); font-size: 12px;">Apakah Anda pemilik situs ini?</a></td><td style="text-align: right;"><button class="dismissButton">Oke</button></td></tr></table></div></div>
-                                <div class="row">
-                                    <div class="col-md-6 col-sm-6">
-                                        <h3>Address</h3>
-                                        <address>
-                                            Your Company<br>
-                                            4877 Spruce Drive<br>
-                                            West Newton, PA 15089<br>
-                                            <br>
-                                            +1 (734) 123-4567<br>
-                                            <a href="#" class="hover-effect"><span><div class="hover-element">hello@example.com</div><div class="hover-element">hello@example.com</div></span></a>
-                                        </address>
-                                    </div>
-                                    <div class="col-md-6 col-sm-6">
-                                        <h3>Social</h3>
-                                        <div class="social">
-                                            <a href="#" class="roll-effect hover-effect"><span><div class="hover-element"><i class="social_facebook_circle"></i>Facebook</div><div class="hover-element"><i class="social_facebook_circle"></i>Facebook</div></span></a>
-                                            <a href="#" class="hover-effect"><span><div class="hover-element"><i class="social_twitter_circle"></i>Twitter</div><div class="hover-element"><i class="social_twitter_circle"></i>Twitter</div></span></a>
-                                            <a href="#" class="hover-effect"><span><div class="hover-element"><i class="social_instagram_circle"></i>Instagram</div><div class="hover-element"><i class="social_instagram_circle"></i>Instagram</div></span></a>
-                                            <a href="#" class="hover-effect"><span><div class="hover-element"><i class="social_skype_circle"></i>Skype</div><div class="hover-element"><i class="social_skype_circle"></i>Skype</div></span></a>
-                                        </div>
-                                        <!--end social-->
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6" data-scroll-reveal="enter top and move 20px" style="-webkit-transform: translatey(-20px);transform: translatey(-20px);opacity: 0;" data-scroll-reveal-initialized="true">
-                                <h3>Contact form</h3>
-                                <form id="form-contact" method="post" class="clearfix inputs-underline">
-                                    <div class="row">
-                                        <div class="col-md-6 col-sm-6">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" id="form-contact-name" name="name" placeholder="Your Name" required="">
-                                            </div>
-                                            <!--end form-group -->
-                                        </div>
-                                        <!--end col-md-6 col-sm-6 -->
-                                        <div class="col-md-6 col-sm-6">
-                                            <div class="form-group">
-                                                <input type="email" class="form-control" id="form-contact-email" name="email" placeholder="Your Email" required="">
-                                            </div>
-                                            <!--end form-group -->
-                                        </div>
-                                        <!--end col-md-6 col-sm-6 -->
-                                    </div>
-                                    <!--end row -->
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="form-group">
-                                                <textarea class="form-control" id="form-contact-message" rows="8" name="message" placeholder="Your Message" required=""></textarea>
-                                            </div>
-                                            <!--end form-group -->
-                                        </div>
-                                        <!--end col-md-12 -->
-                                    </div>
-                                    <!--end row -->
-                                    <div class="form-group clearfix">
-                                        <button type="submit" class="btn pull-right btn-primary btn-rounded hover-effect" id="form-contact-submit"><span><div class="hover-element">Send a Message</div><div class="hover-element">Send a Message</div></span></button>
-                                    </div>
-                                    <!--end form-group -->
-                                    <div id="form-contact-status"></div>
-                                </form>
-                                <!--end form-contact -->
-                            </div>
-                            <!--end col-md-6-->
-                        </div>
-                        <!--end row-->
-                    </div>
-                    <!--end contact map-->
-                </div>
-                <!--end container-->
-            </div>
-            <!--end block-->
-    
-            <div class="container">
-                <hr>
-            </div>
-            <!--end container-->
-    
-            <div class="block">
-                <div class="container">
-                    <div class="logos">
-                        <div class="owl-carousel owl-theme owl-loaded" data-owl-nav="1" data-owl-dots="0" data-owl-items="5">
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                        <div class="owl-stage-outer owl-height" style="height: 45px;"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1504px;"><div class="owl-item active" style="width: 188px; margin-right: 0px;"><div class="logo">
-                                <a href="#" class="hover-effect"><span><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-1.png" alt=""></div><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-1.png" alt=""></div></span></a>
-                            </div></div><div class="owl-item active" style="width: 188px; margin-right: 0px;"><div class="logo">
-                                <a href="#" class="hover-effect"><span><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-2.png" alt=""></div><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-2.png" alt=""></div></span></a>
-                            </div></div><div class="owl-item active" style="width: 188px; margin-right: 0px;"><div class="logo">
-                                <a href="#" class="hover-effect"><span><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-3.png" alt=""></div><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-3.png" alt=""></div></span></a>
-                            </div></div><div class="owl-item active" style="width: 188px; margin-right: 0px;"><div class="logo">
-                                <a href="#" class="hover-effect"><span><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-4.png" alt=""></div><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-4.png" alt=""></div></span></a>
-                            </div></div><div class="owl-item active" style="width: 188px; margin-right: 0px;"><div class="logo">
-                                <a href="#" class="hover-effect"><span><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-5.png" alt=""></div><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-5.png" alt=""></div></span></a>
-                            </div></div><div class="owl-item" style="width: 188px; margin-right: 0px;"><div class="logo">
-                                <a href="#" class="hover-effect"><span><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-6.png" alt=""></div><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-6.png" alt=""></div></span></a>
-                            </div></div><div class="owl-item" style="width: 188px; margin-right: 0px;"><div class="logo">
-                                <a href="#" class="hover-effect"><span><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-7.png" alt=""></div><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-7.png" alt=""></div></span></a>
-                            </div></div><div class="owl-item" style="width: 188px; margin-right: 0px;"><div class="logo">
-                                <a href="#" class="hover-effect"><span><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-8.png" alt=""></div><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo-8.png" alt=""></div></span></a>
-                            </div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;"></div><div class="owl-next" style="display: none;"></div></div><div class="owl-dots" style="display: block;"></div></div></div>
-                    </div>
-                    <!--end logos-->
-                </div>
-                <!--end container-->
-            </div>
-            <!--end block-->
-    
-    
-        </div>
-        <!--end page-content-->
-    
-        <footer id="page-footer" class="block background-is-dark">
-            <div class="container">
-                <a href="#" class="brand hover-effect"><span><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo.png" alt=""></div><div class="hover-element"><img src="http://themestarz.net/html/propper/assets/img/logo.png" alt=""></div></span></a>
-                <!--end brand-->
                 <div class="row">
-                    <div class="col-md-4 col-sm-4">
-                        <p>
-                            Proin orci nisl, posuere viverra erat ut, pellentesque interdum urna. Curabitur eu risus convallis,
-                            auctor augue id, pharetra neque.
-                        </p>
-                    </div>
-                    <!--end col-md-4-->
-                    <div class="col-md-8 col-sm-8">
-                        <div class="contact-data text-align-right">
-                            <figure>+1 (734) 123-4567</figure>
-                            <a href="#" class="hover-effect"><span><div class="hover-element">hello@archits.com</div><div class="hover-element">hello@archits.com</div></span></a>
+                    <div class="col-md-7">
+                        <div class="ltn__top-bar-menu">
+                            <ul>
+                                <li><a href="mailto:info@webmail.com?Subject=Flower%20greetings%20to%20you"><i class="icon-mail"></i> info@webmail.com</a></li>
+                                <li><a href="locations.html"><i class="icon-placeholder"></i> 15/A, Nest Tower, NYC</a></li>
+                            </ul>
                         </div>
                     </div>
-                    <!--end col-md-8-->
-                </div>
-                <!--end row-->
-                <hr>
-                <div class="note">(C) 2016 All Rights Reserved</div>
-                <!--end note-->
-                <div class="numbers">
-                    <h2>Bonus numbers.</h2>
-                    <div class="row">
-                        <div class="col-md-2 col-sm-2">
-                            <div class="number">
-                                <figure>54</figure>
-                                <p>Projects done</p>
+                    <div class="col-md-5">
+                        <div class="top-bar-right text-end">
+                            <div class="ltn__top-bar-menu">
+                                <ul>
+                                    <li class="d-none">
+                                        <!-- ltn__language-menu -->
+                                        <div class="ltn__drop-menu ltn__currency-menu ltn__language-menu">
+                                            <ul>
+                                                <li><a href="#" class="dropdown-toggle"><span class="active-currency">English</span></a>
+                                                    <ul>
+                                                        <li><a href="#">Arabic</a></li>
+                                                        <li><a href="#">Bengali</a></li>
+                                                        <li><a href="#">Chinese</a></li>
+                                                        <li><a href="#">English</a></li>
+                                                        <li><a href="#">French</a></li>
+                                                        <li><a href="#">Hindi</a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <!-- ltn__social-media -->
+                                        <div class="ltn__social-media">
+                                            <ul>
+                                                <li><a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                                                
+                                                <li><a href="#" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                                                <li><a href="#" title="Dribbble"><i class="fab fa-dribbble"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <!-- header-top-btn -->
+                                        <!-- <div class="header-top-btn">
+                                            <a href="add-listing.html">Add Listing</a>
+                                        </div> -->
+                                    </li>
+                                </ul>
                             </div>
-                            <!--end number-->
                         </div>
-                        <!--col-md-2-->
-                        <div class="col-md-2 col-sm-2">
-                            <div class="number">
-                                <figure>21</figure>
-                                <p>Employees</p>
-                            </div>
-                            <!--end number-->
-                        </div>
-                        <!--col-md-2-->
-                        <div class="col-md-2 col-sm-2">
-                            <div class="number">
-                                <figure>48</figure>
-                                <p>Satisfied Clients</p>
-                            </div>
-                            <!--end number-->
-                        </div>
-                        <!--col-md-2-->
-                        <div class="col-md-2 col-sm-2">
-                            <div class="number">
-                                <figure>17</figure>
-                                <p>Prices Won</p>
-                            </div>
-                            <!--end number-->
-                        </div>
-                        <!--col-md-2-->
                     </div>
-                    <!--end row-->
-                </div>
-                <!--end numbers-->
-                <div class="to-top">
-                    <a href="#page-top" class="arrow-up framed scroll">
-                        <i class="arrow_up"></i>
-                    </a>
                 </div>
             </div>
-            <!--end container-->
-            <div class="background-wrapper">
-                <div class="bg-transfer opacity-30" style="background-image: url(&quot;assets/img/footer-bg.jpg&quot;);">
-                    <img src="http://themestarz.net/html/propper/assets/img/footer-bg.jpg" alt="">
+        </div>
+        <!-- ltn__header-top-area end -->
+        
+        <!-- ltn__header-middle-area start -->
+        <div class="ltn__header-middle-area ltn__header-sticky ltn__sticky-bg-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="site-logo-wrap">
+                            <div class="site-logo">
+                                <a href="index.html"><img src="./img/gsk_logo.png" style="width: 93px; position: absolute;" alt="Logo"></a>
+                            </div>
+                            <div class="get-support clearfix d-none">
+                                <div class="get-support-icon">
+                                    <i class="icon-call"></i>
+                                </div>
+                                <div class="get-support-info">
+                                    <h6>Get Support</h6>
+                                    <h4><a href="tel:+123456789">123-456-789-10</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col header-menu-column">
+                        <div class="header-menu d-none d-xl-block">
+                            <nav>
+                                <div class="ltn__main-menu">
+                                    <ul>
+                                        <li><a href="#">Home</a>
+                                        </li>
+                                        <li><a href="#contact">Hubungi Kami</a></li>
+                                        <li><a href="#property">Tipe Rumah</a>
+                                        </li>
+                                        <li><a href="#testimoni">Testimoni</a>
+                                        </li>
+                                        <li><a href="#facility">Fasilitas</a>
+                                            
+                                        </li>
+                                        <li><a href="#about">Tentang Kami</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                    
                 </div>
-                <div class="background-color background-color-black"></div>
             </div>
-            <!--end background-wrapper-->
-        </footer>
-        <!--end page-footer-->
-    
+        </div>
+        <!-- ltn__header-middle-area end -->
+    </header>
+    <!-- HEADER AREA END -->
+
+    <!-- Utilize Cart Menu Start -->
+    <div id="ltn__utilize-cart-menu" class="ltn__utilize ltn__utilize-cart-menu">
+        <div class="ltn__utilize-menu-inner ltn__scrollbar">
+            <div class="ltn__utilize-menu-head">
+                <span class="ltn__utilize-menu-title">Cart</span>
+                <button class="ltn__utilize-close">×</button>
+            </div>
+            <div class="mini-cart-product-area ltn__scrollbar">
+                <div class="mini-cart-item clearfix">
+                    <div class="mini-cart-img">
+                        <a href="#"><img src="img/product/1.png" alt="Image"></a>
+                        <span class="mini-cart-item-delete"><i class="icon-cancel"></i></span>
+                    </div>
+                    <div class="mini-cart-info">
+                        <h6><a href="#">Wheel Bearing Retainer</a></h6>
+                        <span class="mini-cart-quantity">1 x $65.00</span>
+                    </div>
+                </div>
+                <div class="mini-cart-item clearfix">
+                    <div class="mini-cart-img">
+                        <a href="#"><img src="img/product/2.png" alt="Image"></a>
+                        <span class="mini-cart-item-delete"><i class="icon-cancel"></i></span>
+                    </div>
+                    <div class="mini-cart-info">
+                        <h6><a href="#">3 Rooms Manhattan</a></h6>
+                        <span class="mini-cart-quantity">1 x $85.00</span>
+                    </div>
+                </div>
+                <div class="mini-cart-item clearfix">
+                    <div class="mini-cart-img">
+                        <a href="#"><img src="img/product/3.png" alt="Image"></a>
+                        <span class="mini-cart-item-delete"><i class="icon-cancel"></i></span>
+                    </div>
+                    <div class="mini-cart-info">
+                        <h6><a href="#">OE Replica Wheels</a></h6>
+                        <span class="mini-cart-quantity">1 x $92.00</span>
+                    </div>
+                </div>
+                <div class="mini-cart-item clearfix">
+                    <div class="mini-cart-img">
+                        <a href="#"><img src="img/product/4.png" alt="Image"></a>
+                        <span class="mini-cart-item-delete"><i class="icon-cancel"></i></span>
+                    </div>
+                    <div class="mini-cart-info">
+                        <h6><a href="#">Shock Mount Insulator</a></h6>
+                        <span class="mini-cart-quantity">1 x $68.00</span>
+                    </div>
+                </div>
+            </div>
+            <div class="mini-cart-footer">
+                <div class="mini-cart-sub-total">
+                    <h5>Subtotal: <span>$310.00</span></h5>
+                </div>
+                <div class="btn-wrapper">
+                    <a href="cart.html" class="theme-btn-1 btn btn-effect-1">View Cart</a>
+                    <a href="cart.html" class="theme-btn-2 btn btn-effect-2">Checkout</a>
+                </div>
+                <p>Free Shipping on All Orders Over $100!</p>
+            </div>
+
+        </div>
     </div>
-    <!--end page-wrapper-->
-    
-    <div class="modal fade apartment-selector" id="floor-modal" tabindex="-1" role="dialog">
-        <div class="modal-dialog" role="document">
-        <button type="button" class="close hover-effect" data-dismiss="modal" aria-label="Close"><span><div class="hover-element"><i class="icon_close"></i></div><div class="hover-element"><i class="icon_close"></i></div></span></button>
-            <div class="modal-content">
-                <div class="modal-header">
-                    <div class="title">
-                        <h4>Building A</h4>
-                        <h3>Floor 3</h3>
-                        <h1 class="modal-title">Apartment 01</h1>
-                        <h2>$69,000</h2>
-                    </div>
+    <!-- Utilize Cart Menu End -->
+
+    <!-- Utilize Mobile Menu Start -->
+    <div id="ltn__utilize-mobile-menu" class="ltn__utilize ltn__utilize-mobile-menu">
+        <div class="ltn__utilize-menu-inner ltn__scrollbar">
+            <div class="ltn__utilize-menu-head">
+                <div class="site-logo">
+                    <a href="index.html"><img src="./img/gsk_logo.png" alt="Logo"></a>
                 </div>
-                <!--end modal-header-->
-                <div class="modal-body">
-                    <div class="left">
-                        <ul class="nav nav-tabs" role="tablist">
-                            <li role="presentation" class="active"><a href="#modal-floor-plan-1" aria-controls="modal-floor-plan-1" role="tab" data-toggle="tab" class="hover-effect"><span><div class="hover-element">Floor plan</div><div class="hover-element">Floor plan</div></span></a></li>
-                            <li role="presentation"><a href="#modal-gallery-1" aria-controls="modal-gallery-1" role="tab" data-toggle="tab" class="hover-effect"><span><div class="hover-element">Gallery</div><div class="hover-element">Gallery</div></span></a></li>
+                <button class="ltn__utilize-close">×</button>
+            </div>
+            <div class="ltn__utilize-menu-search-form">
+                <form action="#">
+                    <input type="text" placeholder="Search...">
+                    <button><i class="fas fa-search"></i></button>
+                </form>
+            </div>
+            <div class="ltn__utilize-menu">
+                <ul>
+                    <li><a href="#">Home</a>
+                        <ul class="sub-menu">
+                            <li><a href="index.html">Home Style 01</a></li>
+                            <li><a href="index-2.html">Home Style 02</a></li>
+                            <li><a href="index-3.html">Home Style 03</a></li>
+                            <li><a href="index-4.html">Home Style 04</a></li>
+                            <li><a href="index-5.html">Home Style 05  <span class="menu-item-badge">video</span></a></li>
+                            <li><a href="index-6.html">Home Style 06</a></li>
+                            <li><a href="index-7.html">Home Style 07</a></li>
+                            <li><a href="index-8.html">Home Style 08</a></li>
+                            <li><a href="index-9.html">Home Style 09</a></li>
+                            <li><a href="index-10.html">Home Style 10 <span class="menu-item-badge">Map</span></a></li>
+                            <li><a href="index-11.html">Home Style 11</a></li>
                         </ul>
-                        <!--end nav-tabs-->
-                        <div class="tab-content">
-                            <div role="tabpanel" class="tab-pane fade in active" id="modal-floor-plan-1">
-                                <a href="http://themestarz.net/html/propper/assets/img/floor-plan.jpg" class="image-popup"><img src="http://themestarz.net/html/propper/assets/img/floor-plan.jpg" alt=""></a>
-                                <div class="note">Click to zoom</div>
-                            </div>
-                            <div role="tabpanel" class="tab-pane fade" id="modal-gallery-1">
-                                <div class="gallery">
-                                    <div class="one-item-carousel" data-owl-items="1" data-owl-margin="0" data-owl-nav="0" data-owl-dots="1">
-                                        <img src="http://themestarz.net/html/propper/assets/img/gallery-01.jpg" alt="">
-                                        <img src="http://themestarz.net/html/propper/assets/img/image-video.jpg" alt="">
-                                        <img src="http://themestarz.net/html/propper/assets/img/gallery-02.jpg" alt="">
+                    </li>
+                    <li><a href="#">About</a>
+                        <ul class="sub-menu">
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="service.html">Services</a></li>
+                            <li><a href="service-details.html">Service Details</a></li>
+                            <li><a href="portfolio.html">Portfolio</a></li>
+                            <li><a href="portfolio-2.html">Portfolio - 02</a></li>
+                            <li><a href="portfolio-details.html">Portfolio Details</a></li>
+                            <li><a href="team.html">Team</a></li>
+                            <li><a href="team-details.html">Team Details</a></li>
+                            <li><a href="faq.html">FAQ</a></li>
+                            <li><a href="locations.html">Google Map Locations</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Property</a>
+                        <ul class="sub-menu">
+                            <li><a href="shop.html">Property Grid</a></li>
+                            <li><a href="shop-list.html">Property List</a></li>
+                            <li><a href="shop-grid.html">Property No Sidebar</a></li>
+                            <li><a href="shop-left-sidebar.html">Property Left sidebar</a></li>
+                            <li><a href="shop-right-sidebar.html">Property right sidebar</a></li>
+                            <li><a href="product-details.html">Property details </a></li>
+                            <li><a href="cart.html">Cart</a></li>
+                            <li><a href="wishlist.html">Wishlist</a></li>
+                            <li><a href="checkout.html">Checkout</a></li>
+                            <li><a href="order-tracking.html">Order Tracking</a></li>
+                            <li><a href="account.html">My Account</a></li>
+                            <li><a href="login.html">Sign in</a></li>
+                            <li><a href="register.html">Register</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">News</a>
+                        <ul class="sub-menu">
+                            <li><a href="blog.html">News</a></li>
+                            <li><a href="blog-grid.html">News Grid</a></li>
+                            <li><a href="blog-left-sidebar.html">News Left sidebar</a></li>
+                            <li><a href="blog-right-sidebar.html">News Right sidebar</a></li>
+                            <li><a href="blog-details.html">News details</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Pages</a>
+                        <ul class="sub-menu">
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="service.html">Services</a></li>
+                            <li><a href="service-details.html">Service Details</a></li>
+                            <li><a href="portfolio.html">Portfolio</a></li>
+                            <li><a href="portfolio-2.html">Portfolio - 02</a></li>
+                            <li><a href="portfolio-details.html">Portfolio Details</a></li>
+                            <li><a href="team.html">Team</a></li>
+                            <li><a href="team-details.html">Team Details</a></li>
+                            <li><a href="faq.html">FAQ</a></li>
+                            <li><a href="history.html">History</a></li>
+                            <li><a href="locations.html">Google Map Locations</a></li>
+                            <li><a href="404.html">404</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="ltn__utilize-buttons ltn__utilize-buttons-2">
+                <ul>
+                    <li>
+                        <a href="account.html" title="My Account">
+                            <span class="utilize-btn-icon">
+                                <i class="far fa-user"></i>
+                            </span>
+                            My Account
+                        </a>
+                    </li>
+                    <li>
+                        <a href="wishlist.html" title="Wishlist">
+                            <span class="utilize-btn-icon">
+                                <i class="far fa-heart"></i>
+                                <sup>3</sup>
+                            </span>
+                            Wishlist
+                        </a>
+                    </li>
+                    <li>
+                        <a href="cart.html" title="Shoping Cart">
+                            <span class="utilize-btn-icon">
+                                <i class="fas fa-shopping-cart"></i>
+                                <sup>5</sup>
+                            </span>
+                            Shoping Cart
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="ltn__social-media-2">
+                <ul>
+                    <li><a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                    <li><a href="#" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
+                    <li><a href="#" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- Utilize Mobile Menu End -->
+
+    <div class="ltn__utilize-overlay"></div>
+
+    <!-- SLIDER AREA START (slider-11) -->
+    <div class="ltn__slider-area ltn__slider-11  ltn__slider-11-slide-item-count-show--- ltn__slider-11-pagination-count-show--- section-bg-1">
+        <div class="ltn__slider-11-inner">
+            <div class="ltn__slider-11-active">
+                <!-- slide-item -->
+                <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal ltn__slide-item-3 ltn__slide-item-11">
+                    <div class="ltn__slide-item-inner">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12 align-self-center">
+                                    <div class="slide-item-info">
+                                        <div class="slide-item-info-inner ltn__slide-animation">
+                                            <div class="slide-video mb-50 d-none">
+                                                <a class="ltn__video-icon-2 ltn__video-icon-2-border" href="https://www.youtube.com/embed/tlThdr3O5Qo" data-rel="lightcase:myCollection">
+                                                    <i class="fa fa-play"></i>
+                                                </a>
+                                            </div>
+                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Di Perumahan Grand Shafa Kertosari</h6>
+                                            <h1 class="slide-title animated ">Hunian Mewah <br>dan <span>Peluang Investasi</span></h1>
+                                            <!-- <div class="slide-brief animated">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                            </div> -->
+                                            <div class="btn-wrapper animated">
+                                                <a href="about.html" class="theme-btn-1 btn btn-effect-1">Make An Enquiry</a>
+                                                <a class="ltn__video-play-btn bg-white" href="https://www.youtube.com/embed/HnbMYzdjuBs?autoplay=1&amp;showinfo=0" data-rel="lightcase">
+                                                    <i class="icon-play  ltn__secondary-color"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="slide-item-img">
+                                        <img src="img/slider/62.jpg" alt="#">
                                     </div>
                                 </div>
-                                <!--end gallery-->
-                                <a href="http://vimeo.com/24506451" class="video-tour video-popup"><i class="play-icon arrow_triangle-right"></i>Click to take a video tour</a>
                             </div>
                         </div>
-                        <!--end tab-content-->
                     </div>
-                    <!--end left-->
-                    <div class="right">
-                        <h3>Parameters</h3>
-                        <dl>
-                            <dt>Kitchen</dt>
-                            <dd>24m<sup>2</sup></dd>
-                            <dt>Master bedroom</dt>
-                            <dd>58m<sup>2</sup></dd>
-                            <dt>Balcony</dt>
-                            <dd>67m<sup>2</sup></dd>
-                            <dt>Toilet</dt>
-                            <dd>20m<sup>2</sup></dd>
-                            <dt>Living room</dt>
-                            <dd>77m<sup>2</sup></dd>
-                            <dt>Passage</dt>
-                            <dd>48m<sup>2</sup></dd>
-                        </dl>
-                        <h3>Description</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vehicula mauris at finibus efficitur.
-                            Nulla facilisi. Proin sodales nibh id consequat mattis. Phasellus eu consequat nunc.
-                        </p>
-                        <hr>
-                        <figure><a href="#" class="icon hover-effect"><span><div class="hover-element"><i class="fa fa-file-pdf-o"></i>Download PDF</div><div class="hover-element"><i class="fa fa-file-pdf-o"></i>Download PDF</div></span></a></figure>
-                        <figure><a href="#" class="icon hover-effect"><span><div class="hover-element"><i class="fa fa-file-image-o"></i>Download Brochure</div><div class="hover-element"><i class="fa fa-file-image-o"></i>Download Brochure</div></span></a></figure>
-                    </div>
-                    <!--end right-->
                 </div>
-                <!--end modal-body-->
+                <!-- slide-item -->
+                <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal ltn__slide-item-3 ltn__slide-item-11">
+                    <div class="ltn__slide-item-inner">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12 align-self-center">
+                                    <div class="slide-item-info">
+                                        <div class="slide-item-info-inner ltn__slide-animation">
+                                            <div class="slide-video mb-50 d-none">
+                                                <a class="ltn__video-icon-2 ltn__video-icon-2-border" href="https://www.youtube.com/embed/tlThdr3O5Qo" data-rel="lightcase:myCollection">
+                                                    <i class="fa fa-play"></i>
+                                                </a>
+                                            </div>
+                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Real Estate Agency</h6>
+                                            <h1 class="slide-title animated ">Find Your Dream <br> House By Us</h1>
+                                            <div class="slide-brief animated">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                            </div>
+                                            <div class="btn-wrapper animated">
+                                                <a href="service.html" class="theme-btn-1 btn btn-effect-1">OUR SERVICES</a>
+                                                <a href="about.html" class="btn btn-transparent btn-effect-3">LEARN MORE</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="slide-item-img">
+                                        <img src="img/slider/62.jpg" alt="#">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- slide-item -->
+                <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal ltn__slide-item-3 ltn__slide-item-11">
+                    <div class="ltn__slide-item-inner">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12 align-self-center">
+                                    <div class="slide-item-info">
+                                        <div class="slide-item-info-inner ltn__slide-animation">
+                                            <div class="slide-video mb-50 d-none">
+                                                <a class="ltn__video-icon-2 ltn__video-icon-2-border" href="https://www.youtube.com/embed/tlThdr3O5Qo" data-rel="lightcase:myCollection">
+                                                    <i class="fa fa-play"></i>
+                                                </a>
+                                            </div>
+                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Real Estate Agency</h6>
+                                            <h1 class="slide-title animated ">Find Your Dream <br> House By Us</h1>
+                                            <div class="slide-brief animated">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                            </div>
+                                            <div class="btn-wrapper animated">
+                                                <a href="service.html" class="theme-btn-1 btn btn-effect-1">OUR SERVICES</a>
+                                                <a href="about.html" class="btn btn-transparent btn-effect-3">LEARN MORE</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="slide-item-img">
+                                        <img src="img/slider/63.jpg" alt="#">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- slide-item -->
+                <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal ltn__slide-item-3 ltn__slide-item-11">
+                    <div class="ltn__slide-item-inner">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12 align-self-center">
+                                    <div class="slide-item-info">
+                                        <div class="slide-item-info-inner ltn__slide-animation">
+                                            <div class="slide-video mb-50 d-none">
+                                                <a class="ltn__video-icon-2 ltn__video-icon-2-border" href="https://www.youtube.com/embed/tlThdr3O5Qo" data-rel="lightcase:myCollection">
+                                                    <i class="fa fa-play"></i>
+                                                </a>
+                                            </div>
+                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Real Estate Agency</h6>
+                                            <h1 class="slide-title animated ">Find Your Dream <br> House By Us</h1>
+                                            <div class="slide-brief animated">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                            </div>
+                                            <div class="btn-wrapper animated">
+                                                <a href="service.html" class="theme-btn-1 btn btn-effect-1">OUR SERVICES</a>
+                                                <a href="about.html" class="btn btn-transparent btn-effect-3">LEARN MORE</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="slide-item-img">
+                                        <img src="img/slider/64.jpg" alt="#">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <!--end modal-content-->
+            <!-- slider-4-pagination -->
+            <div class="ltn__slider-11-pagination-count">
+                <span class="count"></span>
+                <span class="total"></span>
+            </div>
+            <!-- slider-sticky-icon -->
+            <div class="slider-sticky-icon-2">
+                <ul>
+                    <li><a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                    <li><a href="#" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+            <!-- slider-4-img-slide-arrow -->
+            <div class="ltn__slider-11-img-slide-arrow">
+                <div class="ltn__slider-11-img-slide-arrow-inner">
+                    <div class="ltn__slider-11-img-slide-arrow-active">
+                        <div class="image-slide-item">
+                            <img src="img/slider/61.jpg" alt="Flower Image">
+                        </div>
+                        <div class="image-slide-item">
+                            <img src="img/slider/62.jpg" alt="Flower Image">
+                        </div>
+                        <div class="image-slide-item">
+                            <img src="img/slider/63.jpg" alt="Flower Image">
+                        </div>
+                        <div class="image-slide-item">
+                            <img src="img/slider/64.jpg" alt="Flower Image">
+                        </div>
+                    </div>
+                    <!-- slider-4-slide-item-count -->
+                    <div class="ltn__slider-11-slide-item-count">
+                        <span class="count"></span>
+                        <span class="total"></span>
+                    </div>
+                </div>
+            </div>
+
         </div>
-        <!--end modal-dialog-->
     </div>
-    <!--end modal-->
-    
-    <!--end outer-wrapper-->
-    <!-- Include jQuery from Google CDN -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
-    <!-- Include jQuery Migrate from a CDN -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
-    <!-- Include Google Maps API from a CDN -->
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
-    <!-- Include Bootstrap from a CDN -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-    <!-- Include jQuery Validate from a CDN -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
-    <!-- Include Owl Carousel from a CDN -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-    <!-- Include Magnific Popup from a CDN -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
-    <!-- Include ScrollReveal from a CDN -->
-    <script src="./scroll-reveal.js"></script>
-    <!-- Include Readmore.js from a CDN -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Readmore.js/2.0.2/readmore.min.js" integrity="sha512-llWtDR3k09pa9nOBfutQnrS2kIEG7M6Zm7RIjVVLNab1wRs8NUmA0OjAE38jKzKeCg+A3rdq8AVW41ZTsfhu5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    
-    <script type="text/javascript" src="./sc.js"></script>
-    
-    <script type="text/javascript">
-        var latitude = 34.038405;
-        var longitude = -117.946944;
-        var markerImage = "http://themestarz.net/html/propper/assets/img/map-marker.png";
-        var mapTheme = "light";
-        google.maps.event.addDomListener(window, 'load', simpleMap(latitude, longitude, markerImage, mapTheme));
-    </script>
+    <!-- SLIDER AREA END -->
 
-    <script>
-        $(document).ready(function() {
-            // Function to set the attribute to "true" for elements with data- above opacity
-            // function setAttributeToTrue() {
-            //     const elementsWithAttribute = document.querySelectorAll('[data-scroll-reveal-complete]');
-                
-            //     elementsWithAttribute.forEach((element) => {
-            //         element.style.opacity = 1;
-            //     });
-            // }
+    <!-- ABOUT US AREA START -->
+    <div class="ltn__about-us-area pt-120 pb-90 ">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 align-self-center">
+                    <div class="about-us-img-wrap about-img-left">
+                        <img src="img/others/7.png" alt="About Us Image">
+                        <div class="about-us-img-info about-us-img-info-2 about-us-img-info-3">
+                            
+                            <div class="ltn__video-img ltn__animation-pulse1">
+                                <img src="img/others/8.png" alt="video popup bg image">
+                                <a class="ltn__video-icon-2 ltn__video-icon-2-border---" href="https://www.youtube.com/embed/X7R-q9rsrtU?autoplay=1&amp;showinfo=0"  data-rel="lightcase:myCollection">
+                                    <i class="fa fa-play"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 align-self-center" id="about">
+                    <div class="about-us-info-wrap">
+                        <div class="section-title-area ltn__section-title-2--- mb-20">
+                            <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">ANDA INGIN</h6>
+                            <h1 class="section-title">Hunian Mewah Syariah & Peluang Investasi ?</h1>
+                            <p>Perkembangan properti yang selalu menarik perhatian bagi Anda yang mencari tempat tinggal nyaman atau peluang investasi yang menjanjikan. Jika Anda merasa bingung atau memiliki pertanyaan seputar kepemilikan properti yang nyaman dan berpotensi tinggi, maka Anda berada di tempat yang tepat. Salah satu pilihan menarik yang patut dipertimbangkan adalah perumahan Grand Shafa Kertosari.</p>
+                        </div>
+                        <ul class="ltn__list-item-half clearfix">
+                            <li>
+                                <i class="flaticon-home-2"></i>
+                                Bebas denda
+                            </li>
+                            <li>
+                                <i class="flaticon-mountain"></i>
+                                Proses pembangunan & pengurusan tidak ribet
+                            </li>
+                            <li>
+                                <i class="flaticon-heart"></i>
+                                Lokasi sangat strategis yang bebas banjir di Kota Ponorogo
+                            </li>
+                        </ul>
+                        <!-- <div class="ltn__callout bg-overlay-theme-05  mt-30">
+                            <p>"Enimad minim veniam quis nostrud exercitation <br>
+                                llamco laboris. Lorem ipsum dolor sit amet" </p>
+                        </div>
+                        <div class="btn-wrapper animated">
+                            <a href="service.html" class="theme-btn-1 btn btn-effect-1">OUR SERVICES</a>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ABOUT US AREA END -->
 
-            // Call the function every 1000 milliseconds (1 second)
-            // setInterval(setAttributeToTrue, 500);
-            // Changing the defaults
-            // window.sr = ScrollReveal({ reset: true });
+    <!-- APARTMENTS PLAN AREA START -->
+    <div class="ltn__apartments-plan-area pt-90 pb-70">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- <div class="section-title-area ltn__section-title-2--- text-center">
+                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Apartment Sketch</h6>
+                        <h1 class="section-title">Apartments Plan</h1>
+                    </div> -->
+                    <!-- <div class="ltn__tab-menu ltn__tab-menu-3 ltn__tab-menu-top-right-- text-uppercase--- text-center">
+                        <div class="nav">
+                            <a data-bs-toggle="tab" href="#liton_tab_3_1">The Studio</a>
+                            <a class="active show"  data-bs-toggle="tab" href="#liton_tab_3_2">Deluxe Portion</a>
+                            <a data-bs-toggle="tab" href="#liton_tab_3_3" class="">Penthouse</a>
+                            <a data-bs-toggle="tab" href="#liton_tab_3_4" class="">Top Garden</a>
+                            <a data-bs-toggle="tab" href="#liton_tab_3_5" class="">Double Height</a>
+                        </div>
+                    </div> -->
+                    <div class="tab-content">
+                        <div class="tab-pane fade active show" id="liton_tab_3_2">
+                            <div class="ltn__product-tab-content-inner">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="apartments-plan-info ltn__secondary-bg--- section-bg-1 text-color-white---">
+                                            <h2>Konsep</h2>
+                                            <p>Mengusung konsep ruang terbuka, setiap unit Perumahan Grand Shafa Kertosari memungkinkan untuk Anda memiliki tempat privasi untuk menjemur pakaian, parkir motor, bersantai maupun tempat untuk anak-anak Anda bermain secara bebas tanpa khawatir apapun. Bahkan sirkulasi udara dirumah Anda pun dapat meningkat sehingga rumah Anda tidak terasa pengap dan mendapat cahaya yang alami. Sangat menguntungkan bukan? Terutama untuk Anda yang menyukai tanaman, dengan adanya ruang terbuka Anda bisa menghias ruang tersebut sesuai keinginan dan kreatifitas Anda.</p>
+                                            <!-- <div class="apartments-info-list apartments-info-list-color mt-40">
+                                                <ul>
+                                                    <li><label>Total Area</label> <span>2800 Sq. Ft</span></li>
+                                                    <li><label>Bedroom</label> <span>150 Sq. Ft</span></li>
+                                                    <li><label>Bathroom</label> <span>45 Sq. Ft</span></li>
+                                                    <li><label>Belcony/Pets</label> <span>Allowed</span></li>
+                                                    <li><label>Lounge</label> <span>650 Sq. Ft</span></li>
+                                                </ul>
+                                            </div> -->
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="apartments-plan-img">
+                                            <img src="img/others/10.png" alt="#">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-content">
+                        <div class="tab-pane fade active show" id="liton_tab_3_2">
+                            <div class="ltn__product-tab-content-inner">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="apartments-plan-img">
+                                            <img src="img/others/10.png" alt="#">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="apartments-plan-info ltn__secondary-bg--- section-bg-1 text-color-white---">
+                                            <h2>Icon</h2>
+                                            <p>Masjid seringkali disebut masyarakat sebagai rumah Allah SWT. Beberapa ayat dalam Al-Qur'an yang menyebutkan bahwa fungsi masjid adalah sebagai tempat yang didalamnya banyak menyebut nama Allah (tempat berdzikir), tempat beri'tikaf, tempat beribadah (shalat), pusat pertemuan islam untuk membicarakan urusan hidup dan perjuangan. masjid juga berfungsi untuk mewujudkan kesejahteraan dan ketertiban sosial melalui kajian-kajian keagamaan. Di dalam masyarakat yang majemuk, seperti Indonesia, maka masjid dapat difungsikan untuk memberikan dakwah yang bersifat menyejukkan dalam praktik kehidupan sehari-hari.</p>
+                                            <!-- <div class="apartments-info-list apartments-info-list-color mt-40">
+                                                <ul>
+                                                    <li><label>Total Area</label> <span>2800 Sq. Ft</span></li>
+                                                    <li><label>Bedroom</label> <span>150 Sq. Ft</span></li>
+                                                    <li><label>Bathroom</label> <span>45 Sq. Ft</span></li>
+                                                    <li><label>Belcony/Pets</label> <span>Allowed</span></li>
+                                                    <li><label>Lounge</label> <span>650 Sq. Ft</span></li>
+                                                </ul>
+                                            </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- APARTMENTS PLAN AREA END -->
 
-            // Customizing a reveal set
-            // sr.reveal('div', {opacity: 0.9,duration:3000});
-        })
-    </script>
-    
-    
-    
-    </body></html>
+    <!-- SEARCH BY PLACE AREA START (testimonial-7) -->
+    <div class="ltn__search-by-place-area before-bg-top bg-image-top--- pt-115 pb-70" data-bs-bg="img/bg/20.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title-area ltn__section-title-2--- text-center---">
+                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Area Properties</h6>
+                        <h1 class="section-title">Find Your Dream House <br>
+                            Search By Area</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="row ltn__search-by-place-slider-1-active slick-arrow-1">
+                <?php for($i = 0; $i < 10; $i++):?>
+                <div class="col-lg-4">
+                    <div class="ltn__search-by-place-item">
+                        <div class="search-by-place-img">
+                            <a href="product-details.html"><img src="img/product-3/1.jpg" alt="#"></a>
+                            <!-- <div class="search-by-place-badge">
+                                <ul>
+                                    <li> Properties</li>
+                                </ul>
+                            </div> -->
+                        </div>
+                        <div class="search-by-place-info">
+                            <h6><a href="locations.html">Kertosari</a></h6>
+                            <h4><a href="product-details.html">Tips Membeli Perumahan Ponorogo Supaya Menguntungkan</a></h4>
+                            <div class="search-by-place-btn">
+                                <a href="product-details.html">View Image <i class="flaticon-right-arrow"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <?php endfor;?>
+                <!--  -->
+            </div>
+        </div>
+    </div>
+    <!-- SEARCH BY PLACE AREA END -->
 
+    <!-- FEATURE AREA START ( Feature - 6) -->
+    <div class="ltn__feature-area section-bg-1 pt-120 pb-90 mb-120---">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title-area ltn__section-title-2--- text-center">
+                        <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Our Services</h6>
+                        <h1 class="section-title">Allah dan rasulnya memerangi perilaku RIBA</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="row ltn__custom-gutter--- justify-content-center">
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                        <div class="ltn__feature-icon">
+                            <!-- <span><i class="flaticon-house"></i></span> -->
+                            <img src="img/icons/icon-img/21.png" alt="#">
+                        </div>
+                        <div class="ltn__feature-info">
+                            <h3><a href="service-details.html">Bebas Bunga dan Denda</a></h3>
+                            <p>Perbankan konvensional menerapkan denda atas keterlambatan angsuran. Grand Shafa Kertosari tak akan membuat Anda terbebani dengan denda. Kami mengutamakan kenyamanan Anda. Dan tentu saja, bebas bunga dengan akad syariah</p>
+                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1 active">
+                        <div class="ltn__feature-icon">
+                            <!-- <span><i class="flaticon-house-3"></i></span> -->
+                            <img src="img/icons/icon-img/22.png" alt="#">
+                        </div>
+                        <div class="ltn__feature-info">
+                            <h3><a href="service-details.html">Bebas Sita</a></h3>
+                            <p>Dalam hadist dijelaskan bahwa sita menyita merupakan jalan dan alternatif terakhir didasari hal tersebut, jika Anda mengalami kendala dalam pembayaran angsuran, solusi bukan berarti sita rumah. Kami berkomitmen untuk mencari jalan terbaik bagi semua pihak, menjaga kemudahan bagi Anda dan tanpa membebani pengembang.</p>
+                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                        <div class="ltn__feature-icon">
+                            <!-- <span><i class="flaticon-deal-1"></i></span> -->
+                            <img src="img/icons/icon-img/23.png" alt="#">
+                        </div>
+                        <div class="ltn__feature-info">
+                            <h3><a href="service-details.html">Legalitas terjamin</a></h3>
+                            <p>Penipuan oleh pengembang tak berizin bukanlah hal baru. Kami berbeda, Grand Shafa Kertosari adalah bagian dari PT. Darya Hamsa Mulia yang termasuk dalam Mapan Jaya Group, memberikan legalitas kuat atas setiap kavling tanah yang akan kami bangun.</p>
+                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                        <div class="ltn__feature-icon">
+                            <!-- <span><i class="flaticon-deal-1"></i></span> -->
+                            <img src="img/icons/icon-img/23.png" alt="#">
+                        </div>
+                        <div class="ltn__feature-info">
+                            <h3><a href="service-details.html">Tanpa Pihak Ketiga</a></h3>
+                            <p>Setiap pembelian unit rumah di Grand Shafa Kertosari dilakukan antara pihak developer dan konsumen tanpa perantara bank atau pihak ketiga. Ini tentang transparansi dan kepercayaan</p>
+                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                        <div class="ltn__feature-icon">
+                            <!-- <span><i class="flaticon-deal-1"></i></span> -->
+                            <img src="img/icons/icon-img/23.png" alt="#">
+                        </div>
+                        <div class="ltn__feature-info">
+                            <h3><a href="service-details.html">Semua Tanah dan Kavling sudah bersertifikat</a></h3>
+                            <p>Setiap tanah dan kavling di Grand Shafa Kertosari memiliki sertifikat atas nama PT. Darya Hamsa Mulia, bukan perseorangan. Kejelasan ini akan terus terpelihara saat nama properti dialihkan kepada Anda.</p>
+                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                        <div class="ltn__feature-icon">
+                            <!-- <span><i class="flaticon-deal-1"></i></span> -->
+                            <img src="img/icons/icon-img/23.png" alt="#">
+                        </div>
+                        <div class="ltn__feature-info">
+                            <h3><a href="service-details.html">Akad syar'i Jual Beli</a></h3>
+                            <p>Setiap pembelian dijamin akad syar'i. Dalam Islam, jual beli diizinkan selama tak merugikan dan sesuai aturan yang ada. Di Grand Shafa Kertosari, kami berpegang teguh pada prinsip ini.</p>
+                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
+                        </div>
+                    </div>
+                </div>  
+            </div>
+        </div>
+    </div>
+    <!-- FEATURE AREA END -->
 
+    <!-- PRODUCT SLIDER AREA START -->
+    <div class="ltn__product-slider-area ltn__product-gutter pt-115 pb-90 plr--7" id="property">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title-area ltn__section-title-2--- text-center">
+                        <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Properties</h6>
+                        <h1 class="section-title">Grand Shafa Kertosari menyajikan berbagai tipe unit yang dapat Anda pilih sesuai dengan kebutuhan dan preferensi Anda</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="row ltn__product-slider-item-four-active-full-width slick-arrow-1">
+                <!-- ltn__product-item -->
+                <div class="col-lg-12">
+                    <div class="ltn__product-item ltn__product-item-4 text-center---">
+                        <div class="product-img">
+                            <a href="product-details.html"><img src="img/product-3/1.jpg" alt="#"></a>
+                            <div class="product-badge">
+                                <ul>
+                                    <!-- <li class="sale-badge bg-green">For Rent</li> -->
+                                </ul>
+                            </div>
+                            <div class="product-img-location-gallery">
+                                <div class="product-img-location">
+                                    <ul>
+                                        <li>
+                                            <!-- <a href="locations.html"><i class="flaticon-pin"></i> Belmont Gardens, Chicago</a> -->
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="product-img-gallery">
+                                    <ul>
+                                        <li>
+                                            <a href="product-details.html"><i class="fas fa-camera"></i> 4</a>
+                                        </li>
+                                        <li>
+                                            <a href="product-details.html"><i class="fas fa-film"></i> 2</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <div class="product-price">
+                                <!-- <span>$34,900<label>/Month</label></span> -->
+                            </div>
+                            <h2 class="product-title"><a href="product-details.html">Unit Rumah Tipe 103</a></h2>
+                            <div class="product-description">
+                                <!-- <p>Beautiful Huge 1 Family House In Heart Of <br>
+                                    Westbury. Newly Renovated With New Wood</p> -->
+                                    
+                            </div>
+                            <ul class="ltn__list-item-2">
+                                <li><span>2 <i class="flaticon-bed"></i></span>
+                                    Ruang Keluarga
+                                </li>
+                                <li><span>2 <i class="flaticon-bed"></i></span>
+                                    Kamar Mandi
+                                </li>
+                                <li><span>3 <i class="flaticon-bed"></i></span>
+                                    Kamar Tidur
+                                </li>
+                            </ul>
+                            <ul class="ltn__list-item-2">
+                                <li><span> <i class="flaticon-bed"></i></span>
+                                    Ruang Dapur
+                                </li>
+                                <li><span> <i class="flaticon-bed"></i></span>
+                                    Car Port
+                                </li>
+                                <li><span> <i class="flaticon-bed"></i></span>
+                                    Kanopi
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="product-info-bottom">
+                            <div class="real-estate-agent">
+                                <div class="agent-img">
+                                    <a href="team-details.html"><img src="img/blog/author.jpg" alt="#"></a>
+                                </div>
+                                <div class="agent-brief">
+                                    <h6><a href="team-details.html">William Seklo</a></h6>
+                                    <small>Estate Agents</small>
+                                </div>
+                            </div>
+                            <div class="product-hover-action">
+                                <ul>
+                                    <li>
+                                        <a href="#" title="Quick View" data-bs-toggle="modal" data-bs-target="#quick_view_modal">
+                                            <i class="flaticon-expand"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" title="Wishlist" data-bs-toggle="modal" data-bs-target="#liton_wishlist_modal">
+                                            <i class="flaticon-heart-1"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="product-details.html" title="Product Details">
+                                            <i class="flaticon-add"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ltn__product-item -->
+                <div class="col-lg-12">
+                    <div class="ltn__product-item ltn__product-item-4 text-center---">
+                        <div class="product-img">
+                            <a href="product-details.html"><img src="img/product-3/1.jpg" alt="#"></a>
+                            <div class="product-badge">
+                                <ul>
+                                    <!-- <li class="sale-badge bg-green">For Rent</li> -->
+                                </ul>
+                            </div>
+                            <div class="product-img-location-gallery">
+                                <div class="product-img-location">
+                                    <ul>
+                                        <li>
+                                            <!-- <a href="locations.html"><i class="flaticon-pin"></i> Belmont Gardens, Chicago</a> -->
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="product-img-gallery">
+                                    <ul>
+                                        <li>
+                                            <a href="product-details.html"><i class="fas fa-camera"></i> 4</a>
+                                        </li>
+                                        <li>
+                                            <a href="product-details.html"><i class="fas fa-film"></i> 2</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <div class="product-price">
+                                <!-- <span>$34,900<label>/Month</label></span> -->
+                            </div>
+                            <h2 class="product-title"><a href="product-details.html">Unit Rumah Tipe 103</a></h2>
+                            <div class="product-description">
+                                <!-- <p>Beautiful Huge 1 Family House In Heart Of <br>
+                                    Westbury. Newly Renovated With New Wood</p> -->
+                            </div>
+                            <ul class="ltn__list-item-2">
+                                <li><span>2 <i class="flaticon-bed"></i></span>
+                                    Ruang Keluarga
+                                </li>
+                                <li><span>2 <i class="flaticon-bed"></i></span>
+                                    Kamar Mandi
+                                </li>
+                                <li><span>3 <i class="flaticon-bed"></i></span>
+                                    Kamar Tidur
+                                </li>
+                            </ul>
+                            <ul class="ltn__list-item-2">
+                                <li><span> <i class="flaticon-bed"></i></span>
+                                    Ruang Dapur
+                                </li>
+                                <li><span> <i class="flaticon-bed"></i></span>
+                                    Car Port
+                                </li>
+                                <li><span> <i class="flaticon-bed"></i></span>
+                                    Kanopi
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="product-info-bottom">
+                            <div class="real-estate-agent">
+                                <div class="agent-img">
+                                    <a href="team-details.html"><img src="img/blog/author.jpg" alt="#"></a>
+                                </div>
+                                <div class="agent-brief">
+                                    <h6><a href="team-details.html">William Seklo</a></h6>
+                                    <small>Estate Agents</small>
+                                </div>
+                            </div>
+                            <div class="product-hover-action">
+                                <ul>
+                                    <li>
+                                        <a href="#" title="Quick View" data-bs-toggle="modal" data-bs-target="#quick_view_modal">
+                                            <i class="flaticon-expand"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" title="Wishlist" data-bs-toggle="modal" data-bs-target="#liton_wishlist_modal">
+                                            <i class="flaticon-heart-1"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="product-details.html" title="Product Details">
+                                            <i class="flaticon-add"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ltn__product-item -->
+                <div class="col-lg-12">
+                    <div class="ltn__product-item ltn__product-item-4 text-center---">
+                        <div class="product-img">
+                            <a href="product-details.html"><img src="img/product-3/1.jpg" alt="#"></a>
+                            <div class="product-badge">
+                                <ul>
+                                    <!-- <li class="sale-badge bg-green">For Rent</li> -->
+                                </ul>
+                            </div>
+                            <div class="product-img-location-gallery">
+                                <div class="product-img-location">
+                                    <ul>
+                                        <li>
+                                            <!-- <a href="locations.html"><i class="flaticon-pin"></i> Belmont Gardens, Chicago</a> -->
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="product-img-gallery">
+                                    <ul>
+                                        <li>
+                                            <a href="product-details.html"><i class="fas fa-camera"></i> 4</a>
+                                        </li>
+                                        <li>
+                                            <a href="product-details.html"><i class="fas fa-film"></i> 2</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <div class="product-price">
+                                <!-- <span>$34,900<label>/Month</label></span> -->
+                            </div>
+                            <h2 class="product-title"><a href="product-details.html">Unit Rumah Tipe 103</a></h2>
+                            <div class="product-description">
+                                <!-- <p>Beautiful Huge 1 Family House In Heart Of <br>
+                                    Westbury. Newly Renovated With New Wood</p> -->
+                            </div>
+                            <ul class="ltn__list-item-2">
+                                <li><span>2 <i class="flaticon-bed"></i></span>
+                                    Ruang Keluarga
+                                </li>
+                                <li><span>2 <i class="flaticon-bed"></i></span>
+                                    Kamar Mandi
+                                </li>
+                                <li><span>3 <i class="flaticon-bed"></i></span>
+                                    Kamar Tidur
+                                </li>
+                            </ul>
+                            <ul class="ltn__list-item-2">
+                                <li><span> <i class="flaticon-bed"></i></span>
+                                    Ruang Dapur
+                                </li>
+                                <li><span> <i class="flaticon-bed"></i></span>
+                                    Car Port
+                                </li>
+                                <li><span> <i class="flaticon-bed"></i></span>
+                                    Kanopi
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="product-info-bottom">
+                            <div class="real-estate-agent">
+                                <div class="agent-img">
+                                    <a href="team-details.html"><img src="img/blog/author.jpg" alt="#"></a>
+                                </div>
+                                <div class="agent-brief">
+                                    <h6><a href="team-details.html">William Seklo</a></h6>
+                                    <small>Estate Agents</small>
+                                </div>
+                            </div>
+                            <div class="product-hover-action">
+                                <ul>
+                                    <li>
+                                        <a href="#" title="Quick View" data-bs-toggle="modal" data-bs-target="#quick_view_modal">
+                                            <i class="flaticon-expand"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" title="Wishlist" data-bs-toggle="modal" data-bs-target="#liton_wishlist_modal">
+                                            <i class="flaticon-heart-1"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="product-details.html" title="Product Details">
+                                            <i class="flaticon-add"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+            </div>
+        </div>
+    </div>
+    <!-- PRODUCT SLIDER AREA END -->
 
+    <!-- NEIGHBOUR AREA START -->
+    <div class="neighbour-area section-bg-1 pt-118 pb-120" id="facility">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title-area ltn__section-title-2--- text-center---">
+                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Explore Neighbour</h6>
+                        <h1 class="section-title">Fasilitas <br></h1>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    
+                    <div class="ltn__faq-inner ltn__faq-inner-2 ltn__faq-inner-3">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div id="accordion_2">
+                                    <!-- card -->
+                                    <div class="card">
+                                        <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-1" aria-expanded="false">
+                                           <i class="flaticon-mortarboard"></i> Lingkungan yang Terjaga: Pagar Tembok Keliling
+                                        </h6>
+                                        <div id="faq-item-2-1" class="collapse" data-bs-parent="#accordion_2">
+                                            <div class="card-body">
+                                                <p>Grand Shafa Kertosari menampilkan lingkungan yang terkendali dan teratur dengan pagar tembok keliling. Berfungsi tak hanya untuk menjaga keamanan dan memberi privasi, tetapi juga sebagai ciri visual khas. Dalam keseluruhan, pagar tembok keliling memiliki peran penting dalam membentuk karakter dan kualitas lingkungan hunian yang kami tawarkan.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- card -->
+                                    <div class="card">
+                                        <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-2" aria-expanded="false"> 
+                                           <i class="flaticon-hospital"></i> Keamanan Tanpa Henti: CCTV dan Satpam 24 Jam
+                                        </h6>
+                                        <div id="faq-item-2-2" class="collapse show---" data-bs-parent="#accordion_2">
+                                            <div class="card-body">
+                                                <div class="ltn__video-img alignleft">
+                                                    <img src="img/bg/17.jpg" alt="video popup bg image">
+                                                    <a class="ltn__video-icon-2 ltn__video-icon-2-small ltn__video-icon-2-border----" href="https://www.youtube.com/embed/LjCzPp-MK48?autoplay=1&amp;showinfo=0"  data-rel="lightcase:myCollection">
+                                                        <i class="fa fa-play"></i>
+                                                    </a>
+                                                </div>
+                                                <p>Kami tidak pernah berhenti menjaga keamanan. Dengan teknologi modern, sistem CCTV menggabungkan peran satpam yang berjaga selama 24 jam. Pengawasan konstan meminimalisir risiko tindakan kriminal dan memberi rasa aman yang tak tergantikan kepada setiap penghuni.membantu mencegah tindakan kriminal, dan memberikan rasa aman kepada penghuni.</p>
+                                            </div>
+                                        </div>
+                                    </div>                          
+                                    <!-- card -->
+                                    <div class="card">
+                                        <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-3" aria-expanded="false">
+                                           <i class="flaticon-metro"></i> Pintu Satu Akses: One Gate System
+                                        </h6>
+                                        <div id="faq-item-2-3" class="collapse" data-bs-parent="#accordion_2">
+                                            <div class="card-body">
+                                                <p>Kami memahami bahwa keamanan adalah kunci. Oleh karena itu, Grand Shafa Kertosari menerapkan sistem akses tunggal yang mengatur masuk dan keluar. Tidak hanya mengawasi lalu lintas kendaraan dan penghuni, tetapi juga memberi tingkat keamanan yang lebih tinggi</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--  -->
+                                </div>                                
+                            </div>
+                            <div class="col-lg-6">
+                                <div id="accordion_3">
+                                    <!-- card -->
+                                    <div class="card">
+                                        <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-3-4" aria-expanded="false">
+                                           <i class="flaticon-building"></i> Masjid perumahan
+                                        </h6>
+                                        <div id="faq-item-3-4" class="collapse" data-bs-parent="#accordion_3">
+                                            <div class="card-body">
+                                                <p>Fasilitas umum masjid adalah ruang ibadah bagi penghuni yang memadukan kebutuhan spiritual dengan kenyamanan lingkungan hunian. Dengan adanya masjid di dalam perumahan, penghuni dapat beribadah lebih mudah dan mengembangkan rasa kebersamaan. Grand Shafa Kertosari menghadirkan Masjid As- Shafa sebagai masjid perumahan yang dapat digunakan para warga perumahan Grand Shafa Kertosari dalam kegiatan keagamaan dan akan menjadi tempat lahirnya generasi - generasi penerus yang menegakkan agama islam </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- card -->
+                                    <div class="card">
+                                        <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-3-5" aria-expanded="false">
+                                            <i class="flaticon-airplane"></i> Rumah tahfidz 
+                                        </h6>
+                                        <div id="faq-item-3-5" class="collapse" data-bs-parent="#accordion_3">
+                                            <div class="card-body">
+                                                <p>Perumahan Grand Shafa Kertosari menyediakan fasilitas Rumah Tahfidz. Dengan Rumah Tahfidz, kami memberi kesempatan bagi anak-anak untuk menghafal Al-Quran dengan cinta. Ini adalah tempat pembelajaran dan penghafalan Al-Quran yang membentuk generasi penerus yang mencintai agama.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- card -->
+                                    <div class="card">
+                                        <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-3-6" aria-expanded="false">
+                                            <i class="flaticon-slider"></i> Playground 
+                                        </h6>
+                                        <div id="faq-item-3-6" class="collapse" data-bs-parent="#accordion_3">
+                                            <div class="card-body">
+                                                <p>
+                                                    Playground adalah area bermain anak yang dirancang khusus dengan peralatan yang aman dan sesuai dengan usia anak-anak. Fasilitas ini memberikan ruang bagi anak-anak untuk bermain, belajar sosialisasi, dan berinteraksi dengan sesama penghuni. Playground kami adalah wadah yang aman dan meriah bagi mereka untuk bermain, belajar, dan berinteraksi dengan teman-teman sebaya. Tanpa batasan, anak-anak bisa tumbuh dan berkembang dengan penuh keceriaan.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--  -->
+                                </div>                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- NEIGHBOUR AREA END -->
+
+    <!-- ABOUT US AREA START -->
+    <div class="ltn__about-us-area section-bg-1 bg-image-right-before pt-120 pb-90" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 align-self-center">
+                    <div class="about-us-info-wrap">
+                        <div class="section-title-area ltn__section-title-2--- mb-20">
+                            <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Video profile Grand Shafa</h6>
+                            <h1 class="section-title">Perumahan syariah modern</h1>
+                            <p>Perumahan Syariah, Mewah, dan modern Lokasi Strategis & Bebas Banjir</p>
+                            <hr style="
+    background: black;
+    height: 2px;
+" />
+                            <h1 style="margin-top:1rem;">Harga Mulai 400 jutaan. Bisa diangsur Tanpa Riba</h1>
+                            <button class="btn btn-primary">Hubungi Kami</button>
+                        </div>
+                        <!-- <ul class="ltn__list-item-half ltn__list-item-half-2 clearfix">
+                            <li>
+                                <i class="icon-done"></i>
+                                Living rooms are pre-wired for Surround
+                            </li>
+                            <li>
+                                <i class="icon-done"></i>
+                                Luxurious interior design and amenities
+                            </li>
+                            <li>
+                                <i class="icon-done"></i>
+                                Nestled in the Buckhead Vinings communities
+                            </li>
+                            <li>
+                                <i class="icon-done"></i>
+                                Private balconies with stunning views
+                            </li>
+                            <li>
+                                <i class="icon-done"></i>
+                                A rare combination of inspired architecture
+                            </li>
+                            <li>
+                                <i class="icon-done"></i>
+                                Outdoor grilling with dining court
+                            </li>
+                        </ul> -->
+                        <div class="  ltn__animation-pulse2 text-center mt-30">
+                            <a class="ltn__video-play-btn bg-white--- ltn__secondary-bg" href="https://www.youtube.com/embed/HnbMYzdjuBs?autoplay=1&amp;showinfo=0" data-rel="lightcase">
+                                <i class="icon-play  ltn__secondary-color--- white-color"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 align-self-center">
+                    <div class="about-us-img-wrap about-img-left">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ABOUT US AREA END -->
+
+    <!-- CATEGORY AREA START -->
+    <div class="ltn__category-area ltn__product-gutter section-bg-1--- pt-115 pb-70">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title-area ltn__section-title-2--- text-center">
+                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Our Aminities</h6>
+                        <h1 class="section-title">Building Aminities</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="row ltn__category-slider-active--- slick-arrow-1 justify-content-center">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
+                        <a href="shop.html">
+                            <span class="category-icon"><i class="flaticon-car"></i></span>
+                            <span class="category-number">01</span>
+                            <span class="category-title">Parking Space</span>
+                            <span class="category-brief">
+                                Enimad minim veniam quis no exercitation ullamco lab
+                            </span>
+                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
+                        <a href="shop.html">
+                            <span class="category-icon"><i class="flaticon-swimming"></i></span>
+                            <span class="category-number">02</span>
+                            <span class="category-title">Swimming Pool</span>
+                            <span class="category-brief">
+                                Enimad minim veniam quis no exercitation ullamco lab
+                            </span>
+                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
+                        <a href="shop.html">
+                            <span class="category-icon"><i class="flaticon-secure-shield"></i></span>
+                            <span class="category-number">03</span>
+                            <span class="category-title">Private Security</span>
+                            <span class="category-brief">
+                                Enimad minim veniam quis no exercitation ullamco lab
+                            </span>
+                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
+                        <a href="shop.html">
+                            <span class="category-icon"><i class="flaticon-stethoscope"></i></span>
+                            <span class="category-number">04</span>
+                            <span class="category-title">Medical Center</span>
+                            <span class="category-brief">
+                                Enimad minim veniam quis no exercitation ullamco lab
+                            </span>
+                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
+                        <a href="shop.html">
+                            <span class="category-icon"><i class="flaticon-book"></i></span>
+                            <span class="category-number">05</span>
+                            <span class="category-title">Library Area</span>
+                            <span class="category-brief">
+                                Enimad minim veniam quis no exercitation ullamco lab
+                            </span>
+                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
+                        <a href="shop.html">
+                            <span class="category-icon"><i class="flaticon-bed-1"></i></span>
+                            <span class="category-number">06</span>
+                            <span class="category-title">King Size Beds</span>
+                            <span class="category-brief">
+                                Enimad minim veniam quis no exercitation ullamco lab
+                            </span>
+                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
+                        <a href="shop.html">
+                            <span class="category-icon"><i class="flaticon-home-2"></i></span>
+                            <span class="category-number">07</span>
+                            <span class="category-title">Smart Homes</span>
+                            <span class="category-brief">
+                                Enimad minim veniam quis no exercitation ullamco lab
+                            </span>
+                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
+                        <a href="shop.html">
+                            <span class="category-icon"><i class="flaticon-slider"></i></span>
+                            <span class="category-number">08</span>
+                            <span class="category-title">Kid’s Playland</span>
+                            <span class="category-brief">
+                                Enimad minim veniam quis no exercitation ullamco lab
+                            </span>
+                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- CATEGORY AREA END -->
+
+    <!-- TESTIMONIAL AREA START (testimonial-8) -->
+    <div class="ltn__testimonial-area section-bg-1--- bg-image-top pt-115 pb-65" data-bs-bg="img/bg/23.jpg" id="testimoni">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title-area ltn__section-title-2--- text-center---">
+                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color--- white-color">Client,s Testimonial</h6>
+                        <h1 class="section-title white-color">See What,s Our Client <br>
+                            Says About Us</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="row ltn__testimonial-slider-6-active slick-arrow-3">
+                <div class="col-lg-4">
+                    <div class="ltn__testimonial-item ltn__testimonial-item-7 ltn__testimonial-item-8">
+                        <div class="ltn__testimoni-info">
+                            <div class="ltn__testimoni-author-ratting">
+                                <div class="ltn__testimoni-info-inner">
+                                    <div class="ltn__testimoni-img">
+                                        <img src="img/testimonial/1.jpg" alt="#">
+                                    </div>
+                                    <div class="ltn__testimoni-name-designation">
+                                        <h5>Jacob William</h5>
+                                        <label>Selling Agents</label>
+                                    </div>
+                                </div>
+                                <div class="ltn__testimoni-rating">
+                                    <div class="product-ratting">
+                                        <ul>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <p> 
+                                Precious ipsum dolor sit amet
+                                consectetur adipisicing elit, sed dos
+                                mod tempor incididunt ut labore et
+                                dolore magna aliqua. Ut enim ad min
+                                veniam, quis nostrud Precious ips
+                                um dolor sit amet, consecte</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="ltn__testimonial-item ltn__testimonial-item-7 ltn__testimonial-item-8">
+                        <div class="ltn__testimoni-info">
+                            <div class="ltn__testimoni-author-ratting">
+                                <div class="ltn__testimoni-info-inner">
+                                    <div class="ltn__testimoni-img">
+                                        <img src="img/testimonial/2.jpg" alt="#">
+                                    </div>
+                                    <div class="ltn__testimoni-name-designation">
+                                        <h5>Jacob William</h5>
+                                        <label>Selling Agents</label>
+                                    </div>
+                                </div>
+                                <div class="ltn__testimoni-rating">
+                                    <div class="product-ratting">
+                                        <ul>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <p> 
+                                Precious ipsum dolor sit amet
+                                consectetur adipisicing elit, sed dos
+                                mod tempor incididunt ut labore et
+                                dolore magna aliqua. Ut enim ad min
+                                veniam, quis nostrud Precious ips
+                                um dolor sit amet, consecte</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="ltn__testimonial-item ltn__testimonial-item-7 ltn__testimonial-item-8">
+                        <div class="ltn__testimoni-info">
+                            <div class="ltn__testimoni-author-ratting">
+                                <div class="ltn__testimoni-info-inner">
+                                    <div class="ltn__testimoni-img">
+                                        <img src="img/testimonial/3.jpg" alt="#">
+                                    </div>
+                                    <div class="ltn__testimoni-name-designation">
+                                        <h5>Jacob William</h5>
+                                        <label>Selling Agents</label>
+                                    </div>
+                                </div>
+                                <div class="ltn__testimoni-rating">
+                                    <div class="product-ratting">
+                                        <ul>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <p> 
+                                Precious ipsum dolor sit amet
+                                consectetur adipisicing elit, sed dos
+                                mod tempor incididunt ut labore et
+                                dolore magna aliqua. Ut enim ad min
+                                veniam, quis nostrud Precious ips
+                                um dolor sit amet, consecte</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="ltn__testimonial-item ltn__testimonial-item-7 ltn__testimonial-item-8">
+                        <div class="ltn__testimoni-info">
+                            <div class="ltn__testimoni-author-ratting">
+                                <div class="ltn__testimoni-info-inner">
+                                    <div class="ltn__testimoni-img">
+                                        <img src="img/testimonial/4.jpg" alt="#">
+                                    </div>
+                                    <div class="ltn__testimoni-name-designation">
+                                        <h5>Jacob William</h5>
+                                        <label>Selling Agents</label>
+                                    </div>
+                                </div>
+                                <div class="ltn__testimoni-rating">
+                                    <div class="product-ratting">
+                                        <ul>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <p> 
+                                Precious ipsum dolor sit amet
+                                consectetur adipisicing elit, sed dos
+                                mod tempor incididunt ut labore et
+                                dolore magna aliqua. Ut enim ad min
+                                veniam, quis nostrud Precious ips
+                                um dolor sit amet, consecte</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+            </div>
+        </div>
+    </div>
+    <!-- TESTIMONIAL AREA END -->
+
+    <!-- CALL TO ACTION START (call-to-action-6) -->
+    <div class="ltn__call-to-action-area call-to-action-6 before-bg-bottom" data-bs-bg="img/1.jpg--">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="call-to-action-inner call-to-action-inner-6 ltn__secondary-bg position-relative text-center---">
+                        <div class="coll-to-info text-color-white">
+                            <h1>Harga Mulai 400 jutaan. Bisa diangsur Tanpa Riba</h1>
+                            <p>Tunggu apa lagi? Segera! Sebelum harga naik!</p>
+                        </div>
+                        <div class="btn-wrapper">
+                            <a class="btn btn-effect-3 btn-white" href="#">Hubungi Kami <i class="icon-next"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- CALL TO ACTION END -->
+
+    <!-- FOOTER AREA START -->
+    <footer class="ltn__footer-area  ">
+        <div class="ltn__copyright-area ltn__copyright-2 section-bg-7  plr--5">
+            <div class="container-fluid ltn__border-top-2">
+                <div class="row">
+                    <div class="col-md-6 col-12">
+                        <div class="ltn__copyright-design clearfix">
+                            <p>All Rights Reserved @ Company <span class="current-year"></span></p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12 align-self-center">
+                        <div class="ltn__copyright-menu text-end">
+                            <ul>
+                                <li><a href="#">Terms & Conditions</a></li>
+                                <li><a href="#">Claim</a></li>
+                                <li><a href="#">Privacy & Policy</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- FOOTER AREA END -->
+
+    <!-- MODAL AREA START (Quick View Modal) -->
+    <div class="ltn__modal-area ltn__quick-view-modal-area">
+        <div class="modal fade" id="quick_view_modal" tabindex="-1">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                            <!-- <i class="fas fa-times"></i> -->
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                         <div class="ltn__quick-view-modal-inner">
+                             <div class="modal-product-item">
+                                <div class="row">
+                                    <div class="col-lg-6 col-12">
+                                        <div class="modal-product-img">
+                                            <img src="img/product/4.png" alt="#">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-12">
+                                        <div class="modal-product-info">
+                                            <div class="product-ratting">
+                                                <ul>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star-half-alt"></i></a></li>
+                                                    <li><a href="#"><i class="far fa-star"></i></a></li>
+                                                    <li class="review-total"> <a href="#"> ( 95 Reviews )</a></li>
+                                                </ul>
+                                            </div>
+                                            <h3>3 Rooms Manhattan</h3>
+                                            <div class="product-price">
+                                                <span>$149.00</span>
+                                                <del>$165.00</del>
+                                            </div>
+                                            <div class="modal-product-meta ltn__product-details-menu-1">
+                                                <ul>
+                                                    <li>
+                                                        <strong>Categories:</strong> 
+                                                        <span>
+                                                            <a href="#">Parts</a>
+                                                            <a href="#">Car</a>
+                                                            <a href="#">Seat</a>
+                                                            <a href="#">Cover</a>
+                                                        </span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="ltn__product-details-menu-2">
+                                                <ul>
+                                                    <li>
+                                                        <div class="cart-plus-minus">
+                                                            <input type="text" value="02" name="qtybutton" class="cart-plus-minus-box">
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="theme-btn-1 btn btn-effect-1" title="Add to Cart" data-bs-toggle="modal" data-bs-target="#add_to_cart_modal">
+                                                            <i class="fas fa-shopping-cart"></i>
+                                                            <span>ADD TO CART</span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="ltn__product-details-menu-3">
+                                                <ul>
+                                                    <li>
+                                                        <a href="#" class="" title="Wishlist" data-bs-toggle="modal" data-bs-target="#liton_wishlist_modal">
+                                                            <i class="far fa-heart"></i>
+                                                            <span>Add to Wishlist</span>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="" title="Compare" data-bs-toggle="modal" data-bs-target="#quick_view_modal">
+                                                            <i class="fas fa-exchange-alt"></i>
+                                                            <span>Compare</span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <hr>
+                                            <div class="ltn__social-media">
+                                                <ul>
+                                                    <li>Share:</li>
+                                                    <li><a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                                    <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                                                    <li><a href="#" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
+                                                    <li><a href="#" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                             </div>
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- MODAL AREA END -->
+
+    <!-- MODAL AREA START (Add To Cart Modal) -->
+    <div class="ltn__modal-area ltn__add-to-cart-modal-area">
+        <div class="modal fade" id="add_to_cart_modal" tabindex="-1">
+            <div class="modal-dialog modal-md" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                         <div class="ltn__quick-view-modal-inner">
+                             <div class="modal-product-item">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="modal-product-img">
+                                            <img src="img/product/1.png" alt="#">
+                                        </div>
+                                         <div class="modal-product-info">
+                                            <h5><a href="product-details.html">3 Rooms Manhattan</a></h5>
+                                            <p class="added-cart"><i class="fa fa-check-circle"></i>  Successfully added to your Cart</p>
+                                            <div class="btn-wrapper">
+                                                <a href="cart.html" class="theme-btn-1 btn btn-effect-1">View Cart</a>
+                                                <a href="checkout.html" class="theme-btn-2 btn btn-effect-2">Checkout</a>
+                                            </div>
+                                         </div>
+                                         <!-- additional-info -->
+                                         <div class="additional-info d-none">
+                                            <p>We want to give you <b>10% discount</b> for your first order, <br>  Use discount code at checkout</p>
+                                            <div class="payment-method">
+                                                <img src="img/icons/payment.png" alt="#">
+                                            </div>
+                                         </div>
+                                    </div>
+                                </div>
+                             </div>
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- MODAL AREA END -->
+
+    <!-- MODAL AREA START (Wishlist Modal) -->
+    <div class="ltn__modal-area ltn__add-to-cart-modal-area">
+        <div class="modal fade" id="liton_wishlist_modal" tabindex="-1">
+            <div class="modal-dialog modal-md" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                         <div class="ltn__quick-view-modal-inner">
+                             <div class="modal-product-item">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="modal-product-img">
+                                            <img src="img/product/7.png" alt="#">
+                                        </div>
+                                         <div class="modal-product-info">
+                                            <h5><a href="product-details.html">3 Rooms Manhattan</a></h5>
+                                            <p class="added-cart"><i class="fa fa-check-circle"></i>  Successfully added to your Wishlist</p>
+                                            <div class="btn-wrapper">
+                                                <a href="wishlist.html" class="theme-btn-1 btn btn-effect-1">View Wishlist</a>
+                                            </div>
+                                         </div>
+                                         <!-- additional-info -->
+                                         <div class="additional-info d-none">
+                                            <p>We want to give you <b>10% discount</b> for your first order, <br>  Use discount code at checkout</p>
+                                            <div class="payment-method">
+                                                <img src="img/icons/payment.png" alt="#">
+                                            </div>
+                                         </div>
+                                    </div>
+                                </div>
+                             </div>
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- MODAL AREA END -->
+
+</div>
+<!-- Body main wrapper end -->
+
+    <!-- preloader area start -->
+    <div class="preloader d-none" id="preloader">
+        <div class="preloader-inner">
+            <div class="spinner">
+                <div class="dot1"></div>
+                <div class="dot2"></div>
+            </div>
+        </div>
+    </div>
+    <!-- preloader area end -->
+
+    <!-- All JS Plugins -->
+    <script src="js/plugins.js"></script>
+    <!-- Main JS -->
+    <script src="js/main.js"></script>
+  
+</body>
+
+<!-- Mirrored from tunatheme.com/tf/html/quarter-preview/quarter/index-11.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Sep 2023 15:13:29 GMT -->
+</html>
 
